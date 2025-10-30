@@ -1111,10 +1111,10 @@
         "picture": "./Pictures/150.png"
     },
     "Mew": {
-        "number": 150,
+        "number": 151,
         "types": [
             "Psychic"
         ],
-        "picture": "./Pictures/150.png"
+        "picture": "./Pictures/151.png"
     }
 }
