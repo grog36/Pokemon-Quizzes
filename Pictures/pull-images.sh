@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-for i in {1..151}
+for i in {1..251}
 do
     if [ $i -lt 10 ]; then
         wget "https://www.serebii.net/pokemon/art/00$i.png";

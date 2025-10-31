@@ -1116,5 +1116,751 @@
             "Psychic"
         ],
         "picture": "./Pictures/151.png"
+    },
+    "Chikorita": {
+        "number": 152,
+        "types": [
+            "Grass"
+        ],
+        "picture": "./Pictures/152.png"
+    },
+    "Bayleef": {
+        "number": 153,
+        "types": [
+            "Grass"
+        ],
+        "picture": "./Pictures/153.png"
+    },
+    "Meganium": {
+        "number": 154,
+        "types": [
+            "Grass"
+        ],
+        "picture": "./Pictures/154.png"
+    },
+    "Cyndaquil": {
+        "number": 155,
+        "types": [
+            "Fire"
+        ],
+        "picture": "./Pictures/155.png"
+    },
+    "Quilava": {
+        "number": 156,
+        "types": [
+            "Fire"
+        ],
+        "picture": "./Pictures/156.png"
+    },
+    "Typhlosion": {
+        "number": 157,
+        "types": [
+            "Fire"
+        ],
+        "picture": "./Pictures/157.png"
+    },
+    "Totodile": {
+        "number": 158,
+        "types": [
+            "Water"
+        ],
+        "picture": "./Pictures/158.png"
+    },
+    "Croconaw": {
+        "number": 159,
+        "types": [
+            "Water"
+        ],
+        "picture": "./Pictures/159.png"
+    },
+    "Feraligatr": {
+        "number": 160,
+        "types": [
+            "Water"
+        ],
+        "picture": "./Pictures/160.png"
+    },
+    "Sentret": {
+        "number": 161,
+        "types": [
+            "Normal"
+        ],
+        "picture": "./Pictures/161.png"
+    },
+    "Furret": {
+        "number": 162,
+        "types": [
+            "Normal"
+        ],
+        "picture": "./Pictures/162.png"
+    },
+    "Hoothoot": {
+        "number": 163,
+        "types": [
+            "Normal",
+            "Flying"
+        ],
+        "picture": "./Pictures/163.png"
+    },
+    "Noctowl": {
+        "number": 164,
+        "types": [
+            "Normal",
+            "Flying"
+        ],
+        "picture": "./Pictures/164.png"
+    },
+    "Ledyba": {
+        "number": 165,
+        "types": [
+            "Bug",
+            "Flying"
+        ],
+        "picture": "./Pictures/165.png"
+    },
+    "Ledian": {
+        "number": 166,
+        "types": [
+            "Bug",
+            "Flying"
+        ],
+        "picture": "./Pictures/166.png"
+    },
+    "Spinarak": {
+        "number": 167,
+        "types": [
+            "Bug",
+            "Poison"
+        ],
+        "picture": "./Pictures/167.png"
+    },
+    "Ariados": {
+        "number": 168,
+        "types": [
+            "Bug",
+            "Poison"
+        ],
+        "picture": "./Pictures/168.png"
+    },
+    "Crobat": {
+        "number": 169,
+        "types": [
+            "Poison",
+            "Flying"
+        ],
+        "picture": "./Pictures/169.png"
+    },
+    "Chinchou": {
+        "number": 170,
+        "types": [
+            "Water",
+            "Electric"
+        ],
+        "picture": "./Pictures/170.png"
+    },
+    "Lantern": {
+        "number": 171,
+        "types": [
+            "Water",
+            "Electric"
+        ],
+        "picture": "./Pictures/171.png"
+    },
+    "Pichu": {
+        "number": 172,
+        "types": [
+            "Electric"
+        ],
+        "picture": "./Pictures/172.png"
+    },
+    "Cleffa": {
+        "number": 173,
+        "types": [
+            "Normal"
+        ],
+        "picture": "./Pictures/173.png"
+    },
+    "Igglybuff": {
+        "number": 174,
+        "types": [
+            "Normal"
+        ],
+        "picture": "./Pictures/174.png"
+    },
+    "Togepi": {
+        "number": 175,
+        "types": [
+            "Normal"
+        ],
+        "picture": "./Pictures/175.png"
+    },
+    "Togetic": {
+        "number": 176,
+        "types": [
+            "Normal",
+            "Flying"
+        ],
+        "picture": "./Pictures/176.png"
+    },
+    "Natu": {
+        "number": 177,
+        "types": [
+            "Psychic",
+            "Flying"
+        ],
+        "picture": "./Pictures/177.png"
+    },
+    "Xatu": {
+        "number": 178,
+        "types": [
+            "Psychic",
+            "Flying"
+        ],
+        "picture": "./Pictures/178.png"
+    },
+    "Mareep": {
+        "number": 179,
+        "types": [
+            "Electric"
+        ],
+        "picture": "./Pictures/179.png"
+    },
+    "Flaafy": {
+        "number": 180,
+        "types": [
+            "Electric"
+        ],
+        "picture": "./Pictures/180.png"
+    },
+    "Ampharos": {
+        "number": 181,
+        "types": [
+            "Electric"
+        ],
+        "picture": "./Pictures/181.png"
+    },
+    "Bellossom": {
+        "number": 182,
+        "types": [
+            "Grass"
+        ],
+        "picture": "./Pictures/182.png"
+    },
+    "Marill": {
+        "number": 183,
+        "types": [
+            "Water"
+        ],
+        "picture": "./Pictures/183.png"
+    },
+    "Azumarill": {
+        "number": 184,
+        "types": [
+            "Water"
+        ],
+        "picture": "./Pictures/184.png"
+    },
+    "Sudowoodo": {
+        "number": 185,
+        "types": [
+            "Rock"
+        ],
+        "picture": "./Pictures/185.png"
+    },
+    "Politoed": {
+        "number": 186,
+        "types": [
+            "Water"
+        ],
+        "picture": "./Pictures/186.png"
+    },
+    "Hoppip": {
+        "number": 187,
+        "types": [
+            "Grass",
+            "Flying"
+        ],
+        "picture": "./Pictures/187.png"
+    },
+    "Skiploom": {
+        "number": 188,
+        "types": [
+            "Grass",
+            "Flying"
+        ],
+        "picture": "./Pictures/188.png"
+    },
+    "Jumpluff": {
+        "number": 189,
+        "types": [
+            "Grass",
+            "Flying"
+        ],
+        "picture": "./Pictures/189.png"
+    },
+    "Aipom": {
+        "number": 190,
+        "types": [
+            "Normal"
+        ],
+        "picture": "./Pictures/190.png"
+    },
+    "Sunkern": {
+        "number": 191,
+        "types": [
+            "Grass"
+        ],
+        "picture": "./Pictures/191.png"
+    },
+    "Sunflora": {
+        "number": 192,
+        "types": [
+            "Grass"
+        ],
+        "picture": "./Pictures/192.png"
+    },
+    "Yanma": {
+        "number": 193,
+        "types": [
+            "Bug",
+            "Flying"
+        ],
+        "picture": "./Pictures/193.png"
+    },
+    "Wooper": {
+        "number": 194,
+        "types": [
+            "Water",
+            "Ground"
+        ],
+        "picture": "./Pictures/194.png"
+    },
+    "Quagsire": {
+        "number": 195,
+        "types": [
+            "Water",
+            "Ground"
+        ],
+        "picture": "./Pictures/195.png"
+    },
+    "Espeon": {
+        "number": 196,
+        "types": [
+            "Psychic"
+        ],
+        "picture": "./Pictures/196.png"
+    },
+    "Umbreon": {
+        "number": 197,
+        "types": [
+            "Dark"
+        ],
+        "picture": "./Pictures/197.png"
+    },
+    "Murkrow": {
+        "number": 198,
+        "types": [
+            "Dark",
+            "Flying"
+        ],
+        "picture": "./Pictures/198.png"
+    },
+    "Slowking": {
+        "number": 199,
+        "types": [
+            "Water",
+            "Psychic"
+        ],
+        "picture": "./Pictures/199.png"
+    },
+    "Misdreavus": {
+        "number": 200,
+        "types": [
+            "Ghost"
+        ],
+        "picture": "./Pictures/200.png"
+    },
+    "Unown": {
+        "number": 201,
+        "types": [
+            "Psychic"
+        ],
+        "picture": "./Pictures/201.png"
+    },
+    "Wobbuffet": {
+        "number": 202,
+        "types": [
+            "Psychic"
+        ],
+        "picture": "./Pictures/202.png"
+    },
+    "Girafarig": {
+        "number": 203,
+        "types": [
+            "Normal",
+            "Psychic"
+        ],
+        "picture": "./Pictures/203.png"
+    },
+    "Pineco": {
+        "number": 204,
+        "types": [
+            "Bug"
+        ],
+        "picture": "./Pictures/204.png"
+    },
+    "Forretress": {
+        "number": 205,
+        "types": [
+            "Bug",
+            "Steel"
+        ],
+        "picture": "./Pictures/205.png"
+    },
+    "Dunsparce": {
+        "number": 206,
+        "types": [
+            "Normal"
+        ],
+        "picture": "./Pictures/206.png"
+    },
+    "Gligar": {
+        "number": 207,
+        "types": [
+            "Ground",
+            "Flying"
+        ],
+        "picture": "./Pictures/207.png"
+    },
+    "Steelix": {
+        "number": 208,
+        "types": [
+            "Steel",
+            "Ground"
+        ],
+        "picture": "./Pictures/208.png"
+    },
+    "Snubbull": {
+        "number": 209,
+        "types": [
+            "Normal"
+        ],
+        "picture": "./Pictures/209.png"
+    },
+    "Granbull": {
+        "number": 210,
+        "types": [
+            "Normal"
+        ],
+        "picture": "./Pictures/210.png"
+    },
+    "Qwilfish": {
+        "number": 211,
+        "types": [
+            "Water",
+            "Poison"
+        ],
+        "picture": "./Pictures/211.png"
+    },
+    "Scizor": {
+        "number": 212,
+        "types": [
+            "Bug",
+            "Steel"
+        ],
+        "picture": "./Pictures/212.png"
+    },
+    "Shuckle": {
+        "number": 213,
+        "types": [
+            "Bug",
+            "Rock"
+        ],
+        "picture": "./Pictures/213.png"
+    },
+    "Heracross": {
+        "number": 214,
+        "types": [
+            "Bug",
+            "Fighting"
+        ],
+        "picture": "./Pictures/214.png"
+    },
+    "Sneasel": {
+        "number": 215,
+        "types": [
+            "Dark",
+            "Ice"
+        ],
+        "picture": "./Pictures/215.png"
+    },
+    "Teddiursa": {
+        "number": 216,
+        "types": [
+            "Normal"
+        ],
+        "picture": "./Pictures/216.png"
+    },
+    "Ursaring": {
+        "number": 217,
+        "types": [
+            "Normal"
+        ],
+        "picture": "./Pictures/217.png"
+    },
+    "Slugma": {
+        "number": 218,
+        "types": [
+            "Fire"
+        ],
+        "picture": "./Pictures/218.png"
+    },
+    "Magcargo": {
+        "number": 219,
+        "types": [
+            "Fire",
+            "Rock"
+        ],
+        "picture": "./Pictures/219.png"
+    },
+    "Swinub": {
+        "number": 220,
+        "types": [
+            "Ice",
+            "Ground"
+        ],
+        "picture": "./Pictures/220.png"
+    },
+    "Piloswine": {
+        "number": 221,
+        "types": [
+            "Ice",
+            "Ground"
+        ],
+        "picture": "./Pictures/221.png"
+    },
+    "Corsola": {
+        "number": 222,
+        "types": [
+            "Water",
+            "Rock"
+        ],
+        "picture": "./Pictures/222.png"
+    },
+    "Remoraid": {
+        "number": 223,
+        "types": [
+            "Water"
+        ],
+        "picture": "./Pictures/223.png"
+    },
+    "Octillery": {
+        "number": 224,
+        "types": [
+            "Water"
+        ],
+        "picture": "./Pictures/224.png"
+    },
+    "Delibird": {
+        "number": 225,
+        "types": [
+            "Ice",
+            "Flying"
+        ],
+        "picture": "./Pictures/225.png"
+    },
+    "Mantine": {
+        "number": 226,
+        "types": [
+            "Water",
+            "Flying"
+        ],
+        "picture": "./Pictures/226.png"
+    },
+    "Skarmory": {
+        "number": 227,
+        "types": [
+            "Steel",
+            "Flying"
+        ],
+        "picture": "./Pictures/227.png"
+    },
+    "Houndour": {
+        "number": 228,
+        "types": [
+            "Dark",
+            "Fire"
+        ],
+        "picture": "./Pictures/228.png"
+    },
+    "Houndoom": {
+        "number": 229,
+        "types": [
+            "Dark",
+            "Fire"
+        ],
+        "picture": "./Pictures/229.png"
+    },
+    "Kingdra": {
+        "number": 230,
+        "types": [
+            "Water",
+            "Dragon"
+        ],
+        "picture": "./Pictures/230.png"
+    },
+    "Phanpy": {
+        "number": 231,
+        "types": [
+            "Ground"
+        ],
+        "picture": "./Pictures/231.png"
+    },
+    "Donphan": {
+        "number": 232,
+        "types": [
+            "Ground"
+        ],
+        "picture": "./Pictures/232.png"
+    },
+    "Porygon2": {
+        "number": 233,
+        "types": [
+            "Normal"
+        ],
+        "picture": "./Pictures/233.png"
+    },
+    "Stantler": {
+        "number": 234,
+        "types": [
+            "Normal"
+        ],
+        "picture": "./Pictures/234.png"
+    },
+    "Smeargle": {
+        "number": 235,
+        "types": [
+            "Normal"
+        ],
+        "picture": "./Pictures/235.png"
+    },
+    "Tyrogue": {
+        "number": 236,
+        "types": [
+            "Fighting"
+        ],
+        "picture": "./Pictures/236.png"
+    },
+    "Hitmontop": {
+        "number": 237,
+        "types": [
+            "Fighting"
+        ],
+        "picture": "./Pictures/237.png"
+    },
+    "Smoochum": {
+        "number": 238,
+        "types": [
+            "Ice",
+            "Psychic"
+        ],
+        "picture": "./Pictures/238.png"
+    },
+    "Elekid": {
+        "number": 239,
+        "types": [
+            "Electric"
+        ],
+        "picture": "./Pictures/239.png"
+    },
+    "Magby": {
+        "number": 240,
+        "types": [
+            "Fire"
+        ],
+        "picture": "./Pictures/240.png"
+    },
+    "Miltank": {
+        "number": 241,
+        "types": [
+            "Normal"
+        ],
+        "picture": "./Pictures/241.png"
+    },
+    "Blissey": {
+        "number": 242,
+        "types": [
+            "Normal"
+        ],
+        "picture": "./Pictures/242.png"
+    },
+    "Raikou": {
+        "number": 243,
+        "types": [
+            "Electric"
+        ],
+        "picture": "./Pictures/243.png"
+    },
+    "Entei": {
+        "number": 244,
+        "types": [
+            "Fire"
+        ],
+        "picture": "./Pictures/244.png"
+    },
+    "Suicune": {
+        "number": 245,
+        "types": [
+            "Water"
+        ],
+        "picture": "./Pictures/245.png"
+    },
+    "Larvitar": {
+        "number": 246,
+        "types": [
+            "Rock",
+            "Ground"
+        ],
+        "picture": "./Pictures/246.png"
+    },
+    "Pupitar": {
+        "number": 247,
+        "types": [
+            "Rock",
+            "Ground"
+        ],
+        "picture": "./Pictures/247.png"
+    },
+    "Tyranitar": {
+        "number": 248,
+        "types": [
+            "Rock",
+            "Dark"
+        ],
+        "picture": "./Pictures/248.png"
+    },
+    "Lugia": {
+        "number": 249,
+        "types": [
+            "Psychic",
+            "Flying"
+        ],
+        "picture": "./Pictures/249.png"
+    },
+    "Ho-oh": {
+        "number": 250,
+        "types": [
+            "Fire",
+            "Flying"
+        ],
+        "picture": "./Pictures/250.png"
+    },
+    "Celebi": {
+        "number": 251,
+        "types": [
+            "Psychic",
+            "Grass"
+        ],
+        "picture": "./Pictures/251.png"
     }
 }
