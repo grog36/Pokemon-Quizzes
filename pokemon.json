@@ -2,14 +2,16 @@
     "Bulbasaur": {
         "number": 1,
         "types": [
-            "Grass, Poison"
+            "Grass",
+            "Poison"
         ],
         "picture": "./Pictures/001.png"
     },
     "Ivysaur": {
         "number": 2,
         "types": [
-            "Grass, Poison"
+            "Grass",
+            "Poison"
         ],
         "picture": "./Pictures/002.png"
     },
@@ -409,14 +411,14 @@
     "Mankey": {
         "number": 56,
         "types": [
-            "Fight"
+            "Fighting"
         ],
         "picture": "./Pictures/056.png"
     },
     "Primeape": {
         "number": 57,
         "types": [
-            "Fight"
+            "Fighting"
         ],
         "picture": "./Pictures/057.png"
     },
@@ -671,7 +673,8 @@
     "Cloyster": {
         "number": 91,
         "types": [
-            "Water"
+            "Water",
+            "Ice"
         ],
         "picture": "./Pictures/091.png"
     },
@@ -757,14 +760,6 @@
         ],
         "picture": "./Pictures/102.png"
     },
-    "Exeggutor": {
-        "number": 103,
-        "types": [
-            "Grass",
-            "Psychic"
-        ],
-        "picture": "./Pictures/103.png"
-    },
     "Cubone": {
         "number": 104,
         "types": [
@@ -822,7 +817,7 @@
         ],
         "picture": "./Pictures/111.png"
     },
-    "Rhydon": {
+    "Rhdyon": {
         "number": 112,
         "types": [
             "Ground",
@@ -1862,5 +1857,445 @@
             "Grass"
         ],
         "picture": "./Pictures/251.png"
+    },
+    "Treecko": {
+        "number": 252,
+        "types": [
+            "Grass"
+        ],
+        "picture": "./Pictures/252.png"
+    },
+    "Grovyle": {
+        "number": 253,
+        "types": [
+            "Grass"
+        ],
+        "picture": "./Pictures/253.png"
+    },
+    "Sceptile": {
+        "number": 254,
+        "types": [
+            "Grass"
+        ],
+        "picture": "./Pictures/254.png"
+    },
+    "Torchic": {
+        "number": 255,
+        "types": [
+            "Fire"
+        ],
+        "picture": "./Pictures/255.png"
+    },
+    "Combusken": {
+        "number": 256,
+        "types": [
+            "Fire",
+            "Fighting"
+        ],
+        "picture": "./Pictures/256.png"
+    },
+    "Blaziken": {
+        "number": 257,
+        "types": [
+            "Fire",
+            "Fighting"
+        ],
+        "picture": "./Pictures/257.png"
+    },
+    "Mudkip": {
+        "number": 258,
+        "types": [
+            "Water"
+        ],
+        "picture": "./Pictures/258.png"
+    },
+    "Marshtomp": {
+        "number": 259,
+        "types": [
+            "Water",
+            "Ground"
+        ],
+        "picture": "./Pictures/259.png"
+    },
+    "Swampert": {
+        "number": 260,
+        "types": [
+            "Water",
+            "Ground"
+        ],
+        "picture": "./Pictures/260.png"
+    },
+    "Poochyena": {
+        "number": 261,
+        "types": [
+            "Dark"
+        ],
+        "picture": "./Pictures/261.png"
+    },
+    "Mightyena": {
+        "number": 262,
+        "types": [
+            "Dark"
+        ],
+        "picture": "./Pictures/262.png"
+    },
+    "Zigzagoon": {
+        "number": 263,
+        "types": [
+            "Normal"
+        ],
+        "picture": "./Pictures/263.png"
+    },
+    "Linoone": {
+        "number": 264,
+        "types": [
+            "Normal"
+        ],
+        "picture": "./Pictures/264.png"
+    },
+    "Wurmple": {
+        "number": 265,
+        "types": [
+            "Bug"
+        ],
+        "picture": "./Pictures/265.png"
+    },
+    "Silcoon": {
+        "number": 266,
+        "types": [
+            "Bug"
+        ],
+        "picture": "./Pictures/266.png"
+    },
+    "Beautifly": {
+        "number": 267,
+        "types": [
+            "Bug",
+            "Flying"
+        ],
+        "picture": "./Pictures/267.png"
+    },
+    "Cascoon": {
+        "number": 268,
+        "types": [
+            "Bug"
+        ],
+        "picture": "./Pictures/268.png"
+    },
+    "Dustox": {
+        "number": 269,
+        "types": [
+            "Bug",
+            "Poison"
+        ],
+        "picture": "./Pictures/269.png"
+    },
+    "Lotad": {
+        "number": 270,
+        "types": [
+            "Water",
+            "Grass"
+        ],
+        "picture": "./Pictures/270.png"
+    },
+    "Lombre": {
+        "number": 271,
+        "types": [
+            "Water",
+            "Grass"
+        ],
+        "picture": "./Pictures/271.png"
+    },
+    "Ludicolo": {
+        "number": 272,
+        "types": [
+            "Water",
+            "Grass"
+        ],
+        "picture": "./Pictures/272.png"
+    },
+    "Seedot": {
+        "number": 273,
+        "types": [
+            "Grass"
+        ],
+        "picture": "./Pictures/273.png"
+    },
+    "Nuzleaf": {
+        "number": 274,
+        "types": [
+            "Grass",
+            "Dark"
+        ],
+        "picture": "./Pictures/274.png"
+    },
+    "Shiftry": {
+        "number": 275,
+        "types": [
+            "Grass",
+            "Dark"
+        ],
+        "picture": "./Pictures/275.png"
+    },
+    "Taillow": {
+        "number": 276,
+        "types": [
+            "Normal",
+            "Flying"
+        ],
+        "picture": "./Pictures/276.png"
+    },
+    "Swellow": {
+        "number": 277,
+        "types": [
+            "Normal",
+            "Flying"
+        ],
+        "picture": "./Pictures/277.png"
+    },
+    "Wingull": {
+        "number": 278,
+        "types": [
+            "Water",
+            "Flying"
+        ],
+        "picture": "./Pictures/278.png"
+    },
+    "Pelipper": {
+        "number": 279,
+        "types": [
+            "Water",
+            "Flying"
+        ],
+        "picture": "./Pictures/279.png"
+    },
+    "Ralts": {
+        "number": 280,
+        "types": [
+            "Psychic"
+        ],
+        "picture": "./Pictures/280.png"
+    },
+    "Kirlia": {
+        "number": 281,
+        "types": [
+            "Psychic"
+        ],
+        "picture": "./Pictures/281.png"
+    },
+    "Gardevoir": {
+        "number": 282,
+        "types": [
+            "Psychic"
+        ],
+        "picture": "./Pictures/282.png"
+    },
+    "Surskit": {
+        "number": 283,
+        "types": [
+            "Bug",
+            "Water"
+        ],
+        "picture": "./Pictures/283.png"
+    },
+    "Masquerain": {
+        "number": 284,
+        "types": [
+            "Bug",
+            "Flying"
+        ],
+        "picture": "./Pictures/284.png"
+    },
+    "Shroomish": {
+        "number": 285,
+        "types": [
+            "Grass"
+        ],
+        "picture": "./Pictures/285.png"
+    },
+    "Breloom": {
+        "number": 286,
+        "types": [
+            "Grass",
+            "Fighting"
+        ],
+        "picture": "./Pictures/286.png"
+    },
+    "Slakoth": {
+        "number": 287,
+        "types": [
+            "Normal"
+        ],
+        "picture": "./Pictures/287.png"
+    },
+    "Vigoroth": {
+        "number": 288,
+        "types": [
+            "Normal"
+        ],
+        "picture": "./Pictures/288.png"
+    },
+    "Slaking": {
+        "number": 289,
+        "types": [
+            "Normal"
+        ],
+        "picture": "./Pictures/289.png"
+    },
+    "Nincada": {
+        "number": 290,
+        "types": [
+            "Bug",
+            "Ground"
+        ],
+        "picture": "./Pictures/290.png"
+    },
+    "Ninjask": {
+        "number": 291,
+        "types": [
+            "Bug",
+            "Flying"
+        ],
+        "picture": "./Pictures/291.png"
+    },
+    "Shedinja": {
+        "number": 292,
+        "types": [
+            "Bug",
+            "Ghost"
+        ],
+        "picture": "./Pictures/292.png"
+    },
+    "Whismur": {
+        "number": 293,
+        "types": [
+            "Normal"
+        ],
+        "picture": "./Pictures/293.png"
+    },
+    "Loudred": {
+        "number": 294,
+        "types": [
+            "Normal"
+        ],
+        "picture": "./Pictures/294.png"
+    },
+    "Exploud": {
+        "number": 295,
+        "types": [
+            "Normal"
+        ],
+        "picture": "./Pictures/295.png"
+    },
+    "Makuhita": {
+        "number": 296,
+        "types": [
+            "Fighting"
+        ],
+        "picture": "./Pictures/296.png"
+    },
+    "Hariyama": {
+        "number": 297,
+        "types": [
+            "Fighting"
+        ],
+        "picture": "./Pictures/297.png"
+    },
+    "Azurill": {
+        "number": 298,
+        "types": [
+            "Normal"
+        ],
+        "picture": "./Pictures/298.png"
+    },
+    "Nosepass": {
+        "number": 299,
+        "types": [
+            "Rock"
+        ],
+        "picture": "./Pictures/299.png"
+    },
+    "Skitty": {
+        "number": 300,
+        "types": [
+            "Normal"
+        ],
+        "picture": "./Pictures/300.png"
+    },
+    "Delcatty": {
+        "number": 301,
+        "types": [
+            "Normal"
+        ],
+        "picture": "./Pictures/301.png"
+    },
+    "Sableye": {
+        "number": 302,
+        "types": [
+            "Dark",
+            "Ghost"
+        ],
+        "picture": "./Pictures/302.png"
+    },
+    "Mawile": {
+        "number": 303,
+        "types": [
+            "Steel"
+        ],
+        "picture": "./Pictures/303.png"
+    },
+    "Aron": {
+        "number": 304,
+        "types": [
+            "Steel",
+            "Rock"
+        ],
+        "picture": "./Pictures/304.png"
+    },
+    "Lairon": {
+        "number": 305,
+        "types": [
+            "Steel",
+            "Rock"
+        ],
+        "picture": "./Pictures/305.png"
+    },
+    "Aggron": {
+        "number": 306,
+        "types": [
+            "Steel",
+            "Rock"
+        ],
+        "picture": "./Pictures/306.png"
+    },
+    "Meditite": {
+        "number": 307,
+        "types": [
+            "Fighting",
+            "Psychic"
+        ],
+        "picture": "./Pictures/307.png"
+    },
+    "Medicham": {
+        "number": 308,
+        "types": [
+            "Fighting",
+            "Psychic"
+        ],
+        "picture": "./Pictures/308.png"
+    },
+    "Electrike": {
+        "number": 309,
+        "types": [
+            "Electric"
+        ],
+        "picture": "./Pictures/309.png"
+    },
+    "Manectric": {
+        "number": 310,
+        "types": [
+            "Electric"
+        ],
+        "picture": "./Pictures/310.png"
     }
 }
