@@ -33,13 +33,21 @@ const DOCELEMENTS = {
     "retryButton": document.getElementById("retryButton"),
     "questions": document.getElementById("questions"),
     "giveUpButton": document.getElementById("giveUpButton"),
-    "music": document.getElementById("music")
+    "music": document.getElementById("music"),
+    "musicSource": document.getElementById("musicSource"),
+    "musicToggleLabel": document.getElementById("musicToggleLabel"),
+    "musicSwitch": document.getElementById("musicSwitch")
 }
+
+//Applies current music settings
+DOCELEMENTS["music"].volume = 0.1;
+toggleMusic();
 
 //Start Function
 function start() {
     for (let i = 1; i < GENERATION_COUNT + 1; i++) {
         if (document.getElementById(`gen${i}Switch`).checked === true) {
+            DOCELEMENTS["musicSource"].src = `./Music/0${i}.mp3`;
             chooseGen(i);
         }
     }
@@ -52,8 +60,8 @@ function start() {
     DOCELEMENTS["secondsLabel"].style.visibility = "visible";
     DOCELEMENTS["questions"].style.visibility = "visible";
     DOCELEMENTS["giveUpButton"].style.visibility = "visible";
+    DOCELEMENTS["music"].load();
     DOCELEMENTS["music"].play();
-    DOCELEMENTS["music"].volume = 0.1;
     document.getElementById("startButtonDiv").remove();
 
     //Starts the actual game
@@ -307,4 +315,14 @@ function setupPokemon() {
         .then(data => {
             POKEMON = data;
         });
+}
+
+//Toggles the music on the webpage
+function toggleMusic() {
+    if (DOCELEMENTS["musicSwitch"].checked === true) {
+        DOCELEMENTS["music"].muted = false;
+    }
+    else {
+        DOCELEMENTS["music"].muted = true;
+    }
 }

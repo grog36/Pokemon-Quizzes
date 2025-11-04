@@ -11,8 +11,8 @@
     <title>Pokemon Quiz!</title>
     <script src = "./pokemon.js" defer></script>
     <link href = "./pokemon.css" rel = "stylesheet">
-    <audio id = "music">
-        <source src = "./Music/01.mp3" type = "audio/mpeg" volume = 0.2>
+    <audio id = "music" autoplay muted loop>
+        <source id = "musicSource" src = "./Music/main.mp3" type = "audio/mpeg">
     </audio>
 </head>
 <body>
@@ -21,6 +21,11 @@
     <div class = "startButton", id = "startButtonDiv">
         <button id = "startButton" onclick = "start();">START!</button>
         <br>
+        <br>
+        <span>
+            <label id = "musicToggleLabel">Music: </label>
+            <input id = "musicSwitch" type = "checkbox" onchange = "toggleMusic()">
+        </span>
         <br>
         <span>
             <label id = "gen1Label">Generation 1: </label>
