@@ -7,6 +7,7 @@
  * Import the pokemon.json file
  */
 let POKEMON = {};
+const GENERATION_COUNT = 4; //Number of generations in pokemon object
 setupPokemon();
 
 //Variables to be filled out by setupQuestions
@@ -34,32 +35,25 @@ const DOCELEMENTS = {
     "giveUpButton": document.getElementById("giveUpButton")
 }
 
-function setupQuestions() {
-    answerList = Object.keys(POKEMON);
-    for (let mon in POKEMON) {
-        questionList.push(POKEMON[mon]["picture"]);
-    }
-
-    //Sets up the temporary lists for use as well
-    temporaryAnswerList = [...answerList];
-    temporaryQuestionList = [...questionList];
-}
-
-
 //Start Function
 function start() {
+    for (let i = 1; i < GENERATION_COUNT + 1; i++) {
+        if (document.getElementById(`gen${i}Switch`).checked === true) {
+            chooseGen(i);
+        }
+    }
+
     DOCELEMENTS["answerButton1"].style.visibility = "visible";
     DOCELEMENTS["answerButton2"].style.visibility = "visible";
     DOCELEMENTS["answerButton3"].style.visibility = "visible";
     DOCELEMENTS["answerButton4"].style.visibility = "visible";
     DOCELEMENTS["seconds"].style.visibility = "visible";
-    DOCELEMENTS["minutes"].style.visibility = "visible";
     DOCELEMENTS["secondsLabel"].style.visibility = "visible";
-    DOCELEMENTS["minutesLabel"].style.visibility = "visible";
-    DOCELEMENTS["startButton"].style.visibility = "hidden";
     DOCELEMENTS["questions"].style.visibility = "visible";
     DOCELEMENTS["giveUpButton"].style.visibility = "visible";
-    setupQuestions();
+    document.getElementById("startButtonDiv").remove();
+
+    //Starts the actual game
     nextQuestion();
     continueTimer();
 }
@@ -192,6 +186,8 @@ let minutes = 0;
 function timer() {
     seconds++;
     if (seconds >= 60) {
+        DOCELEMENTS["minutes"].style.visibility = "visible";
+        DOCELEMENTS["minutesLabel"].style.visibility = "visible";
         minutes++;
         seconds -= 60;
     }
@@ -206,8 +202,102 @@ function stopTimer() {
     clearTimeout(timeout);
 }
 
+function chooseGen(genNum) {
+    for (let mon in POKEMON) {
+        if (POKEMON[mon]["generation"] === genNum) {
+            questionList.push(POKEMON[mon]["picture"]);
+            answerList.push(mon);
+        }
+    }
 
+    //Sets up the temporary lists for use as well
+    temporaryAnswerList = [...answerList];
+    temporaryQuestionList = [...questionList];
+}
 
+//Checks for key presses and performs actions accordingly
+document.addEventListener("keydown", pressKey);
+function pressKey(e) {
+    switch (e.keyCode) {
+        //Numpad 4
+        case 100:
+            checkAnswer(1);
+            break;
+        //Numpad 5
+        case 101:
+            checkAnswer(2);
+            break;
+        //Numpad 1
+        case 97:
+            checkAnswer(3);
+            break;
+        //Numpad 2
+        case 98:
+            checkAnswer(4);
+            break;
+        //R
+        case 82:
+            retry();
+            break;
+        //Enter
+        case 13:
+            //Makes sure the game hasn't started yet
+            if (questionList.length === 0) {
+                start();
+            }
+            break;
+        //1
+        case 49:
+            //Makes sure the game hasn't started yet
+            if (questionList.length === 0) {
+                if (document.getElementById("gen1Switch").checked === true) {
+                    document.getElementById("gen1Switch").checked = false;
+                }
+                else {
+                    document.getElementById("gen1Switch").checked = true;
+                }
+            }
+            break;
+        //2
+        case 50:
+            //Makes sure the game hasn't started yet
+            if (questionList.length === 0) {
+                if (document.getElementById("gen2Switch").checked === true) {
+                    document.getElementById("gen2Switch").checked = false;
+                }
+                else {
+                    document.getElementById("gen2Switch").checked = true;
+                }
+            }
+            break;
+        //3
+        case 51:
+            //Makes sure the game hasn't started yet
+            if (questionList.length === 0) {
+                if (document.getElementById("gen3Switch").checked === true) {
+                    document.getElementById("gen3Switch").checked = false;
+                }
+                else {
+                    document.getElementById("gen3Switch").checked = true;
+                }
+            }
+            break;
+        //4
+        case 52:
+            //Makes sure the game hasn't started yet
+            if (questionList.length === 0) {
+                if (document.getElementById("gen4Switch").checked === true) {
+                    document.getElementById("gen4Switch").checked = false;
+                }
+                else {
+                    document.getElementById("gen4Switch").checked = true;
+                }
+            }
+            break;
+    }
+}
+
+//Retrieves the necessary data from pokemon.json
 function setupPokemon() {
     fetch("./pokemon.json")
         .then(response => response.json())

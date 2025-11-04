@@ -5,6 +5,7 @@
             "Grass",
             "Poison"
         ],
+        "generation": 1,
         "picture": "./Pictures/001.png"
     },
     "Ivysaur": {
@@ -13,6 +14,7 @@
             "Grass",
             "Poison"
         ],
+        "generation": 1,
         "picture": "./Pictures/002.png"
     },
     "Venusaur": {
@@ -21,6 +23,7 @@
             "Grass",
             "Poison"
         ],
+        "generation": 1,
         "picture": "./Pictures/003.png"
     },
     "Charmander": {
@@ -28,6 +31,7 @@
         "types": [
             "Fire"
         ],
+        "generation": 1,
         "picture": "./Pictures/004.png"
     },
     "Charmeleon": {
@@ -35,6 +39,7 @@
         "types": [
             "Fire"
         ],
+        "generation": 1,
         "picture": "./Pictures/005.png"
     },
     "Charizard": {
@@ -43,6 +48,7 @@
             "Fire",
             "Flying"
         ],
+        "generation": 1,
         "picture": "./Pictures/006.png"
     },
     "Squirtle": {
@@ -50,6 +56,7 @@
         "types": [
             "Water"
         ],
+        "generation": 1,
         "picture": "./Pictures/007.png"
     },
     "Wartortle": {
@@ -57,6 +64,7 @@
         "types": [
             "Water"
         ],
+        "generation": 1,
         "picture": "./Pictures/008.png"
     },
     "Blastoise": {
@@ -64,6 +72,7 @@
         "types": [
             "Water"
         ],
+        "generation": 1,
         "picture": "./Pictures/009.png"
     },
     "Caterpie": {
@@ -71,6 +80,7 @@
         "types": [
             "Bug"
         ],
+        "generation": 1,
         "picture": "./Pictures/010.png"
     },
     "Metapod": {
@@ -78,6 +88,7 @@
         "types": [
             "Bug"
         ],
+        "generation": 1,
         "picture": "./Pictures/011.png"
     },
     "Butterfree": {
@@ -86,6 +97,7 @@
             "Bug",
             "Flying"
         ],
+        "generation": 1,
         "picture": "./Pictures/012.png"
     },
     "Weedle": {
@@ -94,6 +106,7 @@
             "Bug",
             "Poison"
         ],
+        "generation": 1,
         "picture": "./Pictures/013.png"
     },
     "Kakuna": {
@@ -102,6 +115,7 @@
             "Bug",
             "Poison"
         ],
+        "generation": 1,
         "picture": "./Pictures/014.png"
     },
     "Beedrill": {
@@ -110,6 +124,7 @@
             "Bug",
             "Poison"
         ],
+        "generation": 1,
         "picture": "./Pictures/015.png"
     },
     "Pidgey": {
@@ -118,6 +133,7 @@
             "Normal",
             "Flying"
         ],
+        "generation": 1,
         "picture": "./Pictures/016.png"
     },
     "Pidgeotto": {
@@ -126,6 +142,7 @@
             "Normal",
             "Flying"
         ],
+        "generation": 1,
         "picture": "./Pictures/017.png"
     },
     "Pidgeot": {
@@ -134,6 +151,7 @@
             "Normal",
             "Flying"
         ],
+        "generation": 1,
         "picture": "./Pictures/018.png"
     },
     "Rattata": {
@@ -141,6 +159,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 1,
         "picture": "./Pictures/019.png"
     },
     "Raticate": {
@@ -148,6 +167,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 1,
         "picture": "./Pictures/020.png"
     },
     "Spearow": {
@@ -156,6 +176,7 @@
             "Normal",
             "Flying"
         ],
+        "generation": 1,
         "picture": "./Pictures/021.png"
     },
     "Fearow": {
@@ -164,6 +185,7 @@
             "Normal",
             "Flying"
         ],
+        "generation": 1,
         "picture": "./Pictures/022.png"
     },
     "Ekans": {
@@ -171,6 +193,7 @@
         "types": [
             "Poison"
         ],
+        "generation": 1,
         "picture": "./Pictures/023.png"
     },
     "Arbok": {
@@ -178,6 +201,7 @@
         "types": [
             "Poison"
         ],
+        "generation": 1,
         "picture": "./Pictures/024.png"
     },
     "Pikachu": {
@@ -185,6 +209,7 @@
         "types": [
             "Electric"
         ],
+        "generation": 1,
         "picture": "./Pictures/025.png"
     },
     "Raichu": {
@@ -192,6 +217,7 @@
         "types": [
             "Electric"
         ],
+        "generation": 1,
         "picture": "./Pictures/026.png"
     },
     "Sandshrew": {
@@ -199,6 +225,7 @@
         "types": [
             "Ground"
         ],
+        "generation": 1,
         "picture": "./Pictures/027.png"
     },
     "Sandslash": {
@@ -206,6 +233,7 @@
         "types": [
             "Ground"
         ],
+        "generation": 1,
         "picture": "./Pictures/028.png"
     },
     "Nidoran(f)": {
@@ -213,6 +241,7 @@
         "types": [
             "Poison"
         ],
+        "generation": 1,
         "picture": "./Pictures/029.png"
     },
     "Nidorina": {
@@ -220,6 +249,7 @@
         "types": [
             "Poison"
         ],
+        "generation": 1,
         "picture": "./Pictures/030.png"
     },
     "Nidoqueen": {
@@ -228,6 +258,7 @@
             "Poison",
             "Ground"
         ],
+        "generation": 1,
         "picture": "./Pictures/031.png"
     },
     "Nidoran(m)": {
@@ -235,6 +266,7 @@
         "types": [
             "Poison"
         ],
+        "generation": 1,
         "picture": "./Pictures/032.png"
     },
     "Nidorino": {
@@ -242,6 +274,7 @@
         "types": [
             "Poison"
         ],
+        "generation": 1,
         "picture": "./Pictures/033.png"
     },
     "Nidoking": {
@@ -250,6 +283,7 @@
             "Poison",
             "Ground"
         ],
+        "generation": 1,
         "picture": "./Pictures/034.png"
     },
     "Clefairy": {
@@ -257,6 +291,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 1,
         "picture": "./Pictures/035.png"
     },
     "Clefable": {
@@ -264,6 +299,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 1,
         "picture": "./Pictures/036.png"
     },
     "Vulpix": {
@@ -271,6 +307,7 @@
         "types": [
             "Fire"
         ],
+        "generation": 1,
         "picture": "./Pictures/037.png"
     },
     "Ninetales": {
@@ -278,6 +315,7 @@
         "types": [
             "Fire"
         ],
+        "generation": 1,
         "picture": "./Pictures/038.png"
     },
     "Jigglypuff": {
@@ -285,6 +323,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 1,
         "picture": "./Pictures/039.png"
     },
     "Wigglytuff": {
@@ -292,6 +331,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 1,
         "picture": "./Pictures/040.png"
     },
     "Zubat": {
@@ -300,6 +340,7 @@
             "Poison",
             "Flying"
         ],
+        "generation": 1,
         "picture": "./Pictures/041.png"
     },
     "Golbat": {
@@ -308,6 +349,7 @@
             "Poison",
             "Flying"
         ],
+        "generation": 1,
         "picture": "./Pictures/042.png"
     },
     "Oddish": {
@@ -316,6 +358,7 @@
             "Grass",
             "Poison"
         ],
+        "generation": 1,
         "picture": "./Pictures/043.png"
     },
     "Gloom": {
@@ -324,6 +367,7 @@
             "Grass",
             "Poison"
         ],
+        "generation": 1,
         "picture": "./Pictures/044.png"
     },
     "Vileplume": {
@@ -332,6 +376,7 @@
             "Grass",
             "Poison"
         ],
+        "generation": 1,
         "picture": "./Pictures/045.png"
     },
     "Paras": {
@@ -340,6 +385,7 @@
             "Bug",
             "Grass"
         ],
+        "generation": 1,
         "picture": "./Pictures/046.png"
     },
     "Parasect": {
@@ -348,6 +394,7 @@
             "Bug",
             "Grass"
         ],
+        "generation": 1,
         "picture": "./Pictures/047.png"
     },
     "Venonat": {
@@ -356,6 +403,7 @@
             "Bug",
             "Poison"
         ],
+        "generation": 1,
         "picture": "./Pictures/048.png"
     },
     "Venomoth": {
@@ -364,6 +412,7 @@
             "Bug",
             "Poison"
         ],
+        "generation": 1,
         "picture": "./Pictures/049.png"
     },
     "Diglett": {
@@ -371,6 +420,7 @@
         "types": [
             "Ground"
         ],
+        "generation": 1,
         "picture": "./Pictures/050.png"
     },
     "Dugtrio": {
@@ -378,6 +428,7 @@
         "types": [
             "Ground"
         ],
+        "generation": 1,
         "picture": "./Pictures/051.png"
     },
     "Meowth": {
@@ -385,6 +436,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 1,
         "picture": "./Pictures/052.png"
     },
     "Persian": {
@@ -392,6 +444,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 1,
         "picture": "./Pictures/053.png"
     },
     "Psyduck": {
@@ -399,6 +452,7 @@
         "types": [
             "Water"
         ],
+        "generation": 1,
         "picture": "./Pictures/054.png"
     },
     "Golduck": {
@@ -406,6 +460,7 @@
         "types": [
             "Water"
         ],
+        "generation": 1,
         "picture": "./Pictures/055.png"
     },
     "Mankey": {
@@ -413,6 +468,7 @@
         "types": [
             "Fighting"
         ],
+        "generation": 1,
         "picture": "./Pictures/056.png"
     },
     "Primeape": {
@@ -420,6 +476,7 @@
         "types": [
             "Fighting"
         ],
+        "generation": 1,
         "picture": "./Pictures/057.png"
     },
     "Growlithe": {
@@ -427,6 +484,7 @@
         "types": [
             "Fire"
         ],
+        "generation": 1,
         "picture": "./Pictures/058.png"
     },
     "Arcanine": {
@@ -434,6 +492,7 @@
         "types": [
             "Fire"
         ],
+        "generation": 1,
         "picture": "./Pictures/059.png"
     },
     "Poliwag": {
@@ -441,6 +500,7 @@
         "types": [
             "Water"
         ],
+        "generation": 1,
         "picture": "./Pictures/060.png"
     },
     "Poliwhirl": {
@@ -448,6 +508,7 @@
         "types": [
             "Water"
         ],
+        "generation": 1,
         "picture": "./Pictures/061.png"
     },
     "Poliwrath": {
@@ -456,6 +517,7 @@
             "Water",
             "Fighting"
         ],
+        "generation": 1,
         "picture": "./Pictures/062.png"
     },
     "Abra": {
@@ -463,6 +525,7 @@
         "types": [
             "Psychic"
         ],
+        "generation": 1,
         "picture": "./Pictures/063.png"
     },
     "Kadabra": {
@@ -470,6 +533,7 @@
         "types": [
             "Psychic"
         ],
+        "generation": 1,
         "picture": "./Pictures/064.png"
     },
     "Alakazam": {
@@ -477,6 +541,7 @@
         "types": [
             "Psychic"
         ],
+        "generation": 1,
         "picture": "./Pictures/065.png"
     },
     "Machop": {
@@ -484,6 +549,7 @@
         "types": [
             "Fighting"
         ],
+        "generation": 1,
         "picture": "./Pictures/066.png"
     },
     "Machoke": {
@@ -491,6 +557,7 @@
         "types": [
             "Fighting"
         ],
+        "generation": 1,
         "picture": "./Pictures/067.png"
     },
     "Machamp": {
@@ -498,6 +565,7 @@
         "types": [
             "Fighting"
         ],
+        "generation": 1,
         "picture": "./Pictures/068.png"
     },
     "Bellsprout": {
@@ -506,6 +574,7 @@
             "Grass",
             "Poison"
         ],
+        "generation": 1,
         "picture": "./Pictures/069.png"
     },
     "Weepinbell": {
@@ -514,6 +583,7 @@
             "Grass",
             "Poison"
         ],
+        "generation": 1,
         "picture": "./Pictures/070.png"
     },
     "Victreebel": {
@@ -522,6 +592,7 @@
             "Grass",
             "Poison"
         ],
+        "generation": 1,
         "picture": "./Pictures/071.png"
     },
     "Tentacool": {
@@ -530,6 +601,7 @@
             "Water",
             "Poison"
         ],
+        "generation": 1,
         "picture": "./Pictures/072.png"
     },
     "Tentacruel": {
@@ -538,6 +610,7 @@
             "Water",
             "Poison"
         ],
+        "generation": 1,
         "picture": "./Pictures/073.png"
     },
     "Geodude": {
@@ -546,6 +619,7 @@
             "Rock",
             "Ground"
         ],
+        "generation": 1,
         "picture": "./Pictures/074.png"
     },
     "Graveler": {
@@ -554,6 +628,7 @@
             "Rock",
             "Ground"
         ],
+        "generation": 1,
         "picture": "./Pictures/075.png"
     },
     "Golem": {
@@ -562,6 +637,7 @@
             "Rock",
             "Ground"
         ],
+        "generation": 1,
         "picture": "./Pictures/076.png"
     },
     "Ponyta": {
@@ -569,6 +645,7 @@
         "types": [
             "Fire"
         ],
+        "generation": 1,
         "picture": "./Pictures/077.png"
     },
     "Rapidash": {
@@ -576,6 +653,7 @@
         "types": [
             "Fire"
         ],
+        "generation": 1,
         "picture": "./Pictures/078.png"
     },
     "Slowpoke": {
@@ -584,6 +662,7 @@
             "Water",
             "Psychic"
         ],
+        "generation": 1,
         "picture": "./Pictures/079.png"
     },
     "Slowbro": {
@@ -592,6 +671,7 @@
             "Water",
             "Psychic"
         ],
+        "generation": 1,
         "picture": "./Pictures/080.png"
     },
     "Magnemite": {
@@ -600,6 +680,7 @@
             "Electric",
             "Steel"
         ],
+        "generation": 1,
         "picture": "./Pictures/081.png"
     },
     "Magneton": {
@@ -608,6 +689,7 @@
             "Electric",
             "Steel"
         ],
+        "generation": 1,
         "picture": "./Pictures/082.png"
     },
     "Farfetch'd": {
@@ -616,6 +698,7 @@
             "Normal",
             "Flying"
         ],
+        "generation": 1,
         "picture": "./Pictures/083.png"
     },
     "Doduo": {
@@ -624,6 +707,7 @@
             "Normal",
             "Flying"
         ],
+        "generation": 1,
         "picture": "./Pictures/084.png"
     },
     "Dodrio": {
@@ -632,6 +716,7 @@
             "Normal",
             "Flying"
         ],
+        "generation": 1,
         "picture": "./Pictures/085.png"
     },
     "Seel": {
@@ -639,6 +724,7 @@
         "types": [
             "Water"
         ],
+        "generation": 1,
         "picture": "./Pictures/086.png"
     },
     "Dewgong": {
@@ -647,6 +733,7 @@
             "Water",
             "Ice"
         ],
+        "generation": 1,
         "picture": "./Pictures/087.png"
     },
     "Grimer": {
@@ -654,6 +741,7 @@
         "types": [
             "Poison"
         ],
+        "generation": 1,
         "picture": "./Pictures/088.png"
     },
     "Muk": {
@@ -661,6 +749,7 @@
         "types": [
             "Poison"
         ],
+        "generation": 1,
         "picture": "./Pictures/089.png"
     },
     "Shellder": {
@@ -668,6 +757,7 @@
         "types": [
             "Water"
         ],
+        "generation": 1,
         "picture": "./Pictures/090.png"
     },
     "Cloyster": {
@@ -676,6 +766,7 @@
             "Water",
             "Ice"
         ],
+        "generation": 1,
         "picture": "./Pictures/091.png"
     },
     "Gastly": {
@@ -684,6 +775,7 @@
             "Ghost",
             "Poison"
         ],
+        "generation": 1,
         "picture": "./Pictures/092.png"
     },
     "Haunter": {
@@ -692,6 +784,7 @@
             "Ghost",
             "Poison"
         ],
+        "generation": 1,
         "picture": "./Pictures/093.png"
     },
     "Gengar": {
@@ -700,6 +793,7 @@
             "Ghost",
             "Poison"
         ],
+        "generation": 1,
         "picture": "./Pictures/094.png"
     },
     "Onix": {
@@ -708,6 +802,7 @@
             "Rock",
             "Ground"
         ],
+        "generation": 1,
         "picture": "./Pictures/095.png"
     },
     "Drowzee": {
@@ -715,6 +810,7 @@
         "types": [
             "Psychic"
         ],
+        "generation": 1,
         "picture": "./Pictures/096.png"
     },
     "Hypno": {
@@ -722,6 +818,7 @@
         "types": [
             "Psychic"
         ],
+        "generation": 1,
         "picture": "./Pictures/097.png"
     },
     "Krabby": {
@@ -729,6 +826,7 @@
         "types": [
             "Water"
         ],
+        "generation": 1,
         "picture": "./Pictures/098.png"
     },
     "Kingler": {
@@ -736,6 +834,7 @@
         "types": [
             "Water"
         ],
+        "generation": 1,
         "picture": "./Pictures/099.png"
     },
     "Voltorb": {
@@ -743,6 +842,7 @@
         "types": [
             "Electric"
         ],
+        "generation": 1,
         "picture": "./Pictures/100.png"
     },
     "Electrode": {
@@ -750,6 +850,7 @@
         "types": [
             "Electric"
         ],
+        "generation": 1,
         "picture": "./Pictures/101.png"
     },
     "Exeggcute": {
@@ -758,6 +859,7 @@
             "Grass",
             "Psychic"
         ],
+        "generation": 1,
         "picture": "./Pictures/102.png"
     },
     "Cubone": {
@@ -765,6 +867,7 @@
         "types": [
             "Ground"
         ],
+        "generation": 1,
         "picture": "./Pictures/104.png"
     },
     "Marowak": {
@@ -772,6 +875,7 @@
         "types": [
             "Ground"
         ],
+        "generation": 1,
         "picture": "./Pictures/105.png"
     },
     "Hitmonlee": {
@@ -779,6 +883,7 @@
         "types": [
             "Fighting"
         ],
+        "generation": 1,
         "picture": "./Pictures/106.png"
     },
     "Hitmonchan": {
@@ -786,6 +891,7 @@
         "types": [
             "Fighting"
         ],
+        "generation": 1,
         "picture": "./Pictures/107.png"
     },
     "Lickitung": {
@@ -793,6 +899,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 1,
         "picture": "./Pictures/108.png"
     },
     "Koffing": {
@@ -800,6 +907,7 @@
         "types": [
             "Poison"
         ],
+        "generation": 1,
         "picture": "./Pictures/109.png"
     },
     "Weezing": {
@@ -807,6 +915,7 @@
         "types": [
             "Poison"
         ],
+        "generation": 1,
         "picture": "./Pictures/110.png"
     },
     "Rhyhorn": {
@@ -815,6 +924,7 @@
             "Ground",
             "Rock"
         ],
+        "generation": 1,
         "picture": "./Pictures/111.png"
     },
     "Rhdyon": {
@@ -823,6 +933,7 @@
             "Ground",
             "Rock"
         ],
+        "generation": 1,
         "picture": "./Pictures/112.png"
     },
     "Chansey": {
@@ -830,6 +941,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 1,
         "picture": "./Pictures/113.png"
     },
     "Tangela": {
@@ -837,6 +949,7 @@
         "types": [
             "Grass"
         ],
+        "generation": 1,
         "picture": "./Pictures/114.png"
     },
     "Kangaskhan": {
@@ -844,6 +957,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 1,
         "picture": "./Pictures/115.png"
     },
     "Horsea": {
@@ -851,6 +965,7 @@
         "types": [
             "Water"
         ],
+        "generation": 1,
         "picture": "./Pictures/116.png"
     },
     "Seadra": {
@@ -858,6 +973,7 @@
         "types": [
             "Water"
         ],
+        "generation": 1,
         "picture": "./Pictures/117.png"
     },
     "Goldeen": {
@@ -865,6 +981,7 @@
         "types": [
             "Water"
         ],
+        "generation": 1,
         "picture": "./Pictures/118.png"
     },
     "Seaking": {
@@ -872,6 +989,7 @@
         "types": [
             "Water"
         ],
+        "generation": 1,
         "picture": "./Pictures/119.png"
     },
     "Staryu": {
@@ -879,6 +997,7 @@
         "types": [
             "Water"
         ],
+        "generation": 1,
         "picture": "./Pictures/120.png"
     },
     "Starmie": {
@@ -887,6 +1006,7 @@
             "Water",
             "Psychic"
         ],
+        "generation": 1,
         "picture": "./Pictures/121.png"
     },
     "Mr.Mime": {
@@ -894,6 +1014,7 @@
         "types": [
             "Psychic"
         ],
+        "generation": 1,
         "picture": "./Pictures/122.png"
     },
     "Scyther": {
@@ -902,6 +1023,7 @@
             "Bug",
             "Flying"
         ],
+        "generation": 1,
         "picture": "./Pictures/123.png"
     },
     "Jynx": {
@@ -910,6 +1032,7 @@
             "Ice",
             "Psychic"
         ],
+        "generation": 1,
         "picture": "./Pictures/124.png"
     },
     "Electabuzz": {
@@ -917,6 +1040,7 @@
         "types": [
             "Electric"
         ],
+        "generation": 1,
         "picture": "./Pictures/125.png"
     },
     "Magmar": {
@@ -924,6 +1048,7 @@
         "types": [
             "Fire"
         ],
+        "generation": 1,
         "picture": "./Pictures/126.png"
     },
     "Pinsir": {
@@ -931,6 +1056,7 @@
         "types": [
             "Bug"
         ],
+        "generation": 1,
         "picture": "./Pictures/127.png"
     },
     "Tauros": {
@@ -938,6 +1064,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 1,
         "picture": "./Pictures/128.png"
     },
     "Magikarp": {
@@ -945,6 +1072,7 @@
         "types": [
             "Water"
         ],
+        "generation": 1,
         "picture": "./Pictures/129.png"
     },
     "Gyarados": {
@@ -953,6 +1081,7 @@
             "Water",
             "Flying"
         ],
+        "generation": 1,
         "picture": "./Pictures/130.png"
     },
     "Lapras": {
@@ -961,6 +1090,7 @@
             "Water",
             "Ice"
         ],
+        "generation": 1,
         "picture": "./Pictures/131.png"
     },
     "Ditto": {
@@ -968,6 +1098,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 1,
         "picture": "./Pictures/132.png"
     },
     "Eevee": {
@@ -975,6 +1106,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 1,
         "picture": "./Pictures/133.png"
     },
     "Vaporeon": {
@@ -982,6 +1114,7 @@
         "types": [
             "Water"
         ],
+        "generation": 1,
         "picture": "./Pictures/134.png"
     },
     "Jolteon": {
@@ -989,6 +1122,7 @@
         "types": [
             "Electric"
         ],
+        "generation": 1,
         "picture": "./Pictures/135.png"
     },
     "Flareon": {
@@ -996,6 +1130,7 @@
         "types": [
             "Fire"
         ],
+        "generation": 1,
         "picture": "./Pictures/136.png"
     },
     "Porygon": {
@@ -1003,6 +1138,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 1,
         "picture": "./Pictures/137.png"
     },
     "Omanyte": {
@@ -1011,6 +1147,7 @@
             "Rock",
             "Water"
         ],
+        "generation": 1,
         "picture": "./Pictures/138.png"
     },
     "Omastar": {
@@ -1019,6 +1156,7 @@
             "Rock",
             "Water"
         ],
+        "generation": 1,
         "picture": "./Pictures/139.png"
     },
     "Kabuto": {
@@ -1027,6 +1165,7 @@
             "Rock",
             "Water"
         ],
+        "generation": 1,
         "picture": "./Pictures/140.png"
     },
     "Kabutops": {
@@ -1035,6 +1174,7 @@
             "Rock",
             "Water"
         ],
+        "generation": 1,
         "picture": "./Pictures/141.png"
     },
     "Aerodactyl": {
@@ -1043,6 +1183,7 @@
             "Rock",
             "Flying"
         ],
+        "generation": 1,
         "picture": "./Pictures/142.png"
     },
     "Snorlax": {
@@ -1050,6 +1191,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 1,
         "picture": "./Pictures/143.png"
     },
     "Articuno": {
@@ -1058,6 +1200,7 @@
             "Ice",
             "Flying"
         ],
+        "generation": 1,
         "picture": "./Pictures/144.png"
     },
     "Zapdos": {
@@ -1066,6 +1209,7 @@
             "Electric",
             "Flying"
         ],
+        "generation": 1,
         "picture": "./Pictures/145.png"
     },
     "Moltres": {
@@ -1074,6 +1218,7 @@
             "Fire",
             "Flying"
         ],
+        "generation": 1,
         "picture": "./Pictures/146.png"
     },
     "Dratini": {
@@ -1081,6 +1226,7 @@
         "types": [
             "Dragon"
         ],
+        "generation": 1,
         "picture": "./Pictures/147.png"
     },
     "Dragonair": {
@@ -1088,6 +1234,7 @@
         "types": [
             "Dragon"
         ],
+        "generation": 1,
         "picture": "./Pictures/148.png"
     },
     "Dragonite": {
@@ -1096,6 +1243,7 @@
             "Dragon",
             "Flying"
         ],
+        "generation": 1,
         "picture": "./Pictures/149.png"
     },
     "Mewtwo": {
@@ -1103,6 +1251,7 @@
         "types": [
             "Psychic"
         ],
+        "generation": 1,
         "picture": "./Pictures/150.png"
     },
     "Mew": {
@@ -1110,6 +1259,7 @@
         "types": [
             "Psychic"
         ],
+        "generation": 1,
         "picture": "./Pictures/151.png"
     },
     "Chikorita": {
@@ -1117,6 +1267,7 @@
         "types": [
             "Grass"
         ],
+        "generation": 2,
         "picture": "./Pictures/152.png"
     },
     "Bayleef": {
@@ -1124,6 +1275,7 @@
         "types": [
             "Grass"
         ],
+        "generation": 2,
         "picture": "./Pictures/153.png"
     },
     "Meganium": {
@@ -1131,6 +1283,7 @@
         "types": [
             "Grass"
         ],
+        "generation": 2,
         "picture": "./Pictures/154.png"
     },
     "Cyndaquil": {
@@ -1138,6 +1291,7 @@
         "types": [
             "Fire"
         ],
+        "generation": 2,
         "picture": "./Pictures/155.png"
     },
     "Quilava": {
@@ -1145,6 +1299,7 @@
         "types": [
             "Fire"
         ],
+        "generation": 2,
         "picture": "./Pictures/156.png"
     },
     "Typhlosion": {
@@ -1152,6 +1307,7 @@
         "types": [
             "Fire"
         ],
+        "generation": 2,
         "picture": "./Pictures/157.png"
     },
     "Totodile": {
@@ -1159,6 +1315,7 @@
         "types": [
             "Water"
         ],
+        "generation": 2,
         "picture": "./Pictures/158.png"
     },
     "Croconaw": {
@@ -1166,6 +1323,7 @@
         "types": [
             "Water"
         ],
+        "generation": 2,
         "picture": "./Pictures/159.png"
     },
     "Feraligatr": {
@@ -1173,6 +1331,7 @@
         "types": [
             "Water"
         ],
+        "generation": 2,
         "picture": "./Pictures/160.png"
     },
     "Sentret": {
@@ -1180,6 +1339,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 2,
         "picture": "./Pictures/161.png"
     },
     "Furret": {
@@ -1187,6 +1347,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 2,
         "picture": "./Pictures/162.png"
     },
     "Hoothoot": {
@@ -1195,6 +1356,7 @@
             "Normal",
             "Flying"
         ],
+        "generation": 2,
         "picture": "./Pictures/163.png"
     },
     "Noctowl": {
@@ -1203,6 +1365,7 @@
             "Normal",
             "Flying"
         ],
+        "generation": 2,
         "picture": "./Pictures/164.png"
     },
     "Ledyba": {
@@ -1211,6 +1374,7 @@
             "Bug",
             "Flying"
         ],
+        "generation": 2,
         "picture": "./Pictures/165.png"
     },
     "Ledian": {
@@ -1219,6 +1383,7 @@
             "Bug",
             "Flying"
         ],
+        "generation": 2,
         "picture": "./Pictures/166.png"
     },
     "Spinarak": {
@@ -1227,6 +1392,7 @@
             "Bug",
             "Poison"
         ],
+        "generation": 2,
         "picture": "./Pictures/167.png"
     },
     "Ariados": {
@@ -1235,6 +1401,7 @@
             "Bug",
             "Poison"
         ],
+        "generation": 2,
         "picture": "./Pictures/168.png"
     },
     "Crobat": {
@@ -1243,6 +1410,7 @@
             "Poison",
             "Flying"
         ],
+        "generation": 2,
         "picture": "./Pictures/169.png"
     },
     "Chinchou": {
@@ -1251,6 +1419,7 @@
             "Water",
             "Electric"
         ],
+        "generation": 2,
         "picture": "./Pictures/170.png"
     },
     "Lantern": {
@@ -1259,6 +1428,7 @@
             "Water",
             "Electric"
         ],
+        "generation": 2,
         "picture": "./Pictures/171.png"
     },
     "Pichu": {
@@ -1266,6 +1436,7 @@
         "types": [
             "Electric"
         ],
+        "generation": 2,
         "picture": "./Pictures/172.png"
     },
     "Cleffa": {
@@ -1273,6 +1444,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 2,
         "picture": "./Pictures/173.png"
     },
     "Igglybuff": {
@@ -1280,6 +1452,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 2,
         "picture": "./Pictures/174.png"
     },
     "Togepi": {
@@ -1287,6 +1460,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 2,
         "picture": "./Pictures/175.png"
     },
     "Togetic": {
@@ -1295,6 +1469,7 @@
             "Normal",
             "Flying"
         ],
+        "generation": 2,
         "picture": "./Pictures/176.png"
     },
     "Natu": {
@@ -1303,6 +1478,7 @@
             "Psychic",
             "Flying"
         ],
+        "generation": 2,
         "picture": "./Pictures/177.png"
     },
     "Xatu": {
@@ -1311,6 +1487,7 @@
             "Psychic",
             "Flying"
         ],
+        "generation": 2,
         "picture": "./Pictures/178.png"
     },
     "Mareep": {
@@ -1318,6 +1495,7 @@
         "types": [
             "Electric"
         ],
+        "generation": 2,
         "picture": "./Pictures/179.png"
     },
     "Flaafy": {
@@ -1325,6 +1503,7 @@
         "types": [
             "Electric"
         ],
+        "generation": 2,
         "picture": "./Pictures/180.png"
     },
     "Ampharos": {
@@ -1332,6 +1511,7 @@
         "types": [
             "Electric"
         ],
+        "generation": 2,
         "picture": "./Pictures/181.png"
     },
     "Bellossom": {
@@ -1339,6 +1519,7 @@
         "types": [
             "Grass"
         ],
+        "generation": 2,
         "picture": "./Pictures/182.png"
     },
     "Marill": {
@@ -1346,6 +1527,7 @@
         "types": [
             "Water"
         ],
+        "generation": 2,
         "picture": "./Pictures/183.png"
     },
     "Azumarill": {
@@ -1353,6 +1535,7 @@
         "types": [
             "Water"
         ],
+        "generation": 2,
         "picture": "./Pictures/184.png"
     },
     "Sudowoodo": {
@@ -1360,6 +1543,7 @@
         "types": [
             "Rock"
         ],
+        "generation": 2,
         "picture": "./Pictures/185.png"
     },
     "Politoed": {
@@ -1367,6 +1551,7 @@
         "types": [
             "Water"
         ],
+        "generation": 2,
         "picture": "./Pictures/186.png"
     },
     "Hoppip": {
@@ -1375,6 +1560,7 @@
             "Grass",
             "Flying"
         ],
+        "generation": 2,
         "picture": "./Pictures/187.png"
     },
     "Skiploom": {
@@ -1383,6 +1569,7 @@
             "Grass",
             "Flying"
         ],
+        "generation": 2,
         "picture": "./Pictures/188.png"
     },
     "Jumpluff": {
@@ -1391,6 +1578,7 @@
             "Grass",
             "Flying"
         ],
+        "generation": 2,
         "picture": "./Pictures/189.png"
     },
     "Aipom": {
@@ -1398,6 +1586,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 2,
         "picture": "./Pictures/190.png"
     },
     "Sunkern": {
@@ -1405,6 +1594,7 @@
         "types": [
             "Grass"
         ],
+        "generation": 2,
         "picture": "./Pictures/191.png"
     },
     "Sunflora": {
@@ -1412,6 +1602,7 @@
         "types": [
             "Grass"
         ],
+        "generation": 2,
         "picture": "./Pictures/192.png"
     },
     "Yanma": {
@@ -1420,6 +1611,7 @@
             "Bug",
             "Flying"
         ],
+        "generation": 2,
         "picture": "./Pictures/193.png"
     },
     "Wooper": {
@@ -1428,6 +1620,7 @@
             "Water",
             "Ground"
         ],
+        "generation": 2,
         "picture": "./Pictures/194.png"
     },
     "Quagsire": {
@@ -1436,6 +1629,7 @@
             "Water",
             "Ground"
         ],
+        "generation": 2,
         "picture": "./Pictures/195.png"
     },
     "Espeon": {
@@ -1443,6 +1637,7 @@
         "types": [
             "Psychic"
         ],
+        "generation": 2,
         "picture": "./Pictures/196.png"
     },
     "Umbreon": {
@@ -1450,6 +1645,7 @@
         "types": [
             "Dark"
         ],
+        "generation": 2,
         "picture": "./Pictures/197.png"
     },
     "Murkrow": {
@@ -1458,6 +1654,7 @@
             "Dark",
             "Flying"
         ],
+        "generation": 2,
         "picture": "./Pictures/198.png"
     },
     "Slowking": {
@@ -1466,6 +1663,7 @@
             "Water",
             "Psychic"
         ],
+        "generation": 2,
         "picture": "./Pictures/199.png"
     },
     "Misdreavus": {
@@ -1473,6 +1671,7 @@
         "types": [
             "Ghost"
         ],
+        "generation": 2,
         "picture": "./Pictures/200.png"
     },
     "Unown": {
@@ -1480,6 +1679,7 @@
         "types": [
             "Psychic"
         ],
+        "generation": 2,
         "picture": "./Pictures/201.png"
     },
     "Wobbuffet": {
@@ -1487,6 +1687,7 @@
         "types": [
             "Psychic"
         ],
+        "generation": 2,
         "picture": "./Pictures/202.png"
     },
     "Girafarig": {
@@ -1495,6 +1696,7 @@
             "Normal",
             "Psychic"
         ],
+        "generation": 2,
         "picture": "./Pictures/203.png"
     },
     "Pineco": {
@@ -1502,6 +1704,7 @@
         "types": [
             "Bug"
         ],
+        "generation": 2,
         "picture": "./Pictures/204.png"
     },
     "Forretress": {
@@ -1510,6 +1713,7 @@
             "Bug",
             "Steel"
         ],
+        "generation": 2,
         "picture": "./Pictures/205.png"
     },
     "Dunsparce": {
@@ -1517,6 +1721,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 2,
         "picture": "./Pictures/206.png"
     },
     "Gligar": {
@@ -1525,6 +1730,7 @@
             "Ground",
             "Flying"
         ],
+        "generation": 2,
         "picture": "./Pictures/207.png"
     },
     "Steelix": {
@@ -1533,6 +1739,7 @@
             "Steel",
             "Ground"
         ],
+        "generation": 2,
         "picture": "./Pictures/208.png"
     },
     "Snubbull": {
@@ -1540,6 +1747,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 2,
         "picture": "./Pictures/209.png"
     },
     "Granbull": {
@@ -1547,6 +1755,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 2,
         "picture": "./Pictures/210.png"
     },
     "Qwilfish": {
@@ -1555,6 +1764,7 @@
             "Water",
             "Poison"
         ],
+        "generation": 2,
         "picture": "./Pictures/211.png"
     },
     "Scizor": {
@@ -1563,6 +1773,7 @@
             "Bug",
             "Steel"
         ],
+        "generation": 2,
         "picture": "./Pictures/212.png"
     },
     "Shuckle": {
@@ -1571,6 +1782,7 @@
             "Bug",
             "Rock"
         ],
+        "generation": 2,
         "picture": "./Pictures/213.png"
     },
     "Heracross": {
@@ -1579,6 +1791,7 @@
             "Bug",
             "Fighting"
         ],
+        "generation": 2,
         "picture": "./Pictures/214.png"
     },
     "Sneasel": {
@@ -1587,6 +1800,7 @@
             "Dark",
             "Ice"
         ],
+        "generation": 2,
         "picture": "./Pictures/215.png"
     },
     "Teddiursa": {
@@ -1594,6 +1808,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 2,
         "picture": "./Pictures/216.png"
     },
     "Ursaring": {
@@ -1601,6 +1816,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 2,
         "picture": "./Pictures/217.png"
     },
     "Slugma": {
@@ -1608,6 +1824,7 @@
         "types": [
             "Fire"
         ],
+        "generation": 2,
         "picture": "./Pictures/218.png"
     },
     "Magcargo": {
@@ -1616,6 +1833,7 @@
             "Fire",
             "Rock"
         ],
+        "generation": 2,
         "picture": "./Pictures/219.png"
     },
     "Swinub": {
@@ -1624,6 +1842,7 @@
             "Ice",
             "Ground"
         ],
+        "generation": 2,
         "picture": "./Pictures/220.png"
     },
     "Piloswine": {
@@ -1632,6 +1851,7 @@
             "Ice",
             "Ground"
         ],
+        "generation": 2,
         "picture": "./Pictures/221.png"
     },
     "Corsola": {
@@ -1640,6 +1860,7 @@
             "Water",
             "Rock"
         ],
+        "generation": 2,
         "picture": "./Pictures/222.png"
     },
     "Remoraid": {
@@ -1647,6 +1868,7 @@
         "types": [
             "Water"
         ],
+        "generation": 2,
         "picture": "./Pictures/223.png"
     },
     "Octillery": {
@@ -1654,6 +1876,7 @@
         "types": [
             "Water"
         ],
+        "generation": 2,
         "picture": "./Pictures/224.png"
     },
     "Delibird": {
@@ -1662,6 +1885,7 @@
             "Ice",
             "Flying"
         ],
+        "generation": 2,
         "picture": "./Pictures/225.png"
     },
     "Mantine": {
@@ -1670,6 +1894,7 @@
             "Water",
             "Flying"
         ],
+        "generation": 2,
         "picture": "./Pictures/226.png"
     },
     "Skarmory": {
@@ -1678,6 +1903,7 @@
             "Steel",
             "Flying"
         ],
+        "generation": 2,
         "picture": "./Pictures/227.png"
     },
     "Houndour": {
@@ -1686,6 +1912,7 @@
             "Dark",
             "Fire"
         ],
+        "generation": 2,
         "picture": "./Pictures/228.png"
     },
     "Houndoom": {
@@ -1694,6 +1921,7 @@
             "Dark",
             "Fire"
         ],
+        "generation": 2,
         "picture": "./Pictures/229.png"
     },
     "Kingdra": {
@@ -1702,6 +1930,7 @@
             "Water",
             "Dragon"
         ],
+        "generation": 2,
         "picture": "./Pictures/230.png"
     },
     "Phanpy": {
@@ -1709,6 +1938,7 @@
         "types": [
             "Ground"
         ],
+        "generation": 2,
         "picture": "./Pictures/231.png"
     },
     "Donphan": {
@@ -1716,6 +1946,7 @@
         "types": [
             "Ground"
         ],
+        "generation": 2,
         "picture": "./Pictures/232.png"
     },
     "Porygon2": {
@@ -1723,6 +1954,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 2,
         "picture": "./Pictures/233.png"
     },
     "Stantler": {
@@ -1730,6 +1962,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 2,
         "picture": "./Pictures/234.png"
     },
     "Smeargle": {
@@ -1737,6 +1970,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 2,
         "picture": "./Pictures/235.png"
     },
     "Tyrogue": {
@@ -1744,6 +1978,7 @@
         "types": [
             "Fighting"
         ],
+        "generation": 2,
         "picture": "./Pictures/236.png"
     },
     "Hitmontop": {
@@ -1751,6 +1986,7 @@
         "types": [
             "Fighting"
         ],
+        "generation": 2,
         "picture": "./Pictures/237.png"
     },
     "Smoochum": {
@@ -1759,6 +1995,7 @@
             "Ice",
             "Psychic"
         ],
+        "generation": 2,
         "picture": "./Pictures/238.png"
     },
     "Elekid": {
@@ -1766,6 +2003,7 @@
         "types": [
             "Electric"
         ],
+        "generation": 2,
         "picture": "./Pictures/239.png"
     },
     "Magby": {
@@ -1773,6 +2011,7 @@
         "types": [
             "Fire"
         ],
+        "generation": 2,
         "picture": "./Pictures/240.png"
     },
     "Miltank": {
@@ -1780,6 +2019,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 2,
         "picture": "./Pictures/241.png"
     },
     "Blissey": {
@@ -1787,6 +2027,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 2,
         "picture": "./Pictures/242.png"
     },
     "Raikou": {
@@ -1794,6 +2035,7 @@
         "types": [
             "Electric"
         ],
+        "generation": 2,
         "picture": "./Pictures/243.png"
     },
     "Entei": {
@@ -1801,6 +2043,7 @@
         "types": [
             "Fire"
         ],
+        "generation": 2,
         "picture": "./Pictures/244.png"
     },
     "Suicune": {
@@ -1808,6 +2051,7 @@
         "types": [
             "Water"
         ],
+        "generation": 2,
         "picture": "./Pictures/245.png"
     },
     "Larvitar": {
@@ -1816,6 +2060,7 @@
             "Rock",
             "Ground"
         ],
+        "generation": 2,
         "picture": "./Pictures/246.png"
     },
     "Pupitar": {
@@ -1824,6 +2069,7 @@
             "Rock",
             "Ground"
         ],
+        "generation": 2,
         "picture": "./Pictures/247.png"
     },
     "Tyranitar": {
@@ -1832,6 +2078,7 @@
             "Rock",
             "Dark"
         ],
+        "generation": 2,
         "picture": "./Pictures/248.png"
     },
     "Lugia": {
@@ -1840,6 +2087,7 @@
             "Psychic",
             "Flying"
         ],
+        "generation": 2,
         "picture": "./Pictures/249.png"
     },
     "Ho-oh": {
@@ -1848,6 +2096,7 @@
             "Fire",
             "Flying"
         ],
+        "generation": 2,
         "picture": "./Pictures/250.png"
     },
     "Celebi": {
@@ -1856,6 +2105,7 @@
             "Psychic",
             "Grass"
         ],
+        "generation": 2,
         "picture": "./Pictures/251.png"
     },
     "Treecko": {
@@ -1863,6 +2113,7 @@
         "types": [
             "Grass"
         ],
+        "generation": 3,
         "picture": "./Pictures/252.png"
     },
     "Grovyle": {
@@ -1870,6 +2121,7 @@
         "types": [
             "Grass"
         ],
+        "generation": 3,
         "picture": "./Pictures/253.png"
     },
     "Sceptile": {
@@ -1877,6 +2129,7 @@
         "types": [
             "Grass"
         ],
+        "generation": 3,
         "picture": "./Pictures/254.png"
     },
     "Torchic": {
@@ -1884,6 +2137,7 @@
         "types": [
             "Fire"
         ],
+        "generation": 3,
         "picture": "./Pictures/255.png"
     },
     "Combusken": {
@@ -1892,6 +2146,7 @@
             "Fire",
             "Fighting"
         ],
+        "generation": 3,
         "picture": "./Pictures/256.png"
     },
     "Blaziken": {
@@ -1900,6 +2155,7 @@
             "Fire",
             "Fighting"
         ],
+        "generation": 3,
         "picture": "./Pictures/257.png"
     },
     "Mudkip": {
@@ -1907,6 +2163,7 @@
         "types": [
             "Water"
         ],
+        "generation": 3,
         "picture": "./Pictures/258.png"
     },
     "Marshtomp": {
@@ -1915,6 +2172,7 @@
             "Water",
             "Ground"
         ],
+        "generation": 3,
         "picture": "./Pictures/259.png"
     },
     "Swampert": {
@@ -1923,6 +2181,7 @@
             "Water",
             "Ground"
         ],
+        "generation": 3,
         "picture": "./Pictures/260.png"
     },
     "Poochyena": {
@@ -1930,6 +2189,7 @@
         "types": [
             "Dark"
         ],
+        "generation": 3,
         "picture": "./Pictures/261.png"
     },
     "Mightyena": {
@@ -1937,6 +2197,7 @@
         "types": [
             "Dark"
         ],
+        "generation": 3,
         "picture": "./Pictures/262.png"
     },
     "Zigzagoon": {
@@ -1944,6 +2205,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 3,
         "picture": "./Pictures/263.png"
     },
     "Linoone": {
@@ -1951,6 +2213,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 3,
         "picture": "./Pictures/264.png"
     },
     "Wurmple": {
@@ -1958,6 +2221,7 @@
         "types": [
             "Bug"
         ],
+        "generation": 3,
         "picture": "./Pictures/265.png"
     },
     "Silcoon": {
@@ -1965,6 +2229,7 @@
         "types": [
             "Bug"
         ],
+        "generation": 3,
         "picture": "./Pictures/266.png"
     },
     "Beautifly": {
@@ -1973,6 +2238,7 @@
             "Bug",
             "Flying"
         ],
+        "generation": 3,
         "picture": "./Pictures/267.png"
     },
     "Cascoon": {
@@ -1980,6 +2246,7 @@
         "types": [
             "Bug"
         ],
+        "generation": 3,
         "picture": "./Pictures/268.png"
     },
     "Dustox": {
@@ -1988,6 +2255,7 @@
             "Bug",
             "Poison"
         ],
+        "generation": 3,
         "picture": "./Pictures/269.png"
     },
     "Lotad": {
@@ -1996,6 +2264,7 @@
             "Water",
             "Grass"
         ],
+        "generation": 3,
         "picture": "./Pictures/270.png"
     },
     "Lombre": {
@@ -2004,6 +2273,7 @@
             "Water",
             "Grass"
         ],
+        "generation": 3,
         "picture": "./Pictures/271.png"
     },
     "Ludicolo": {
@@ -2012,6 +2282,7 @@
             "Water",
             "Grass"
         ],
+        "generation": 3,
         "picture": "./Pictures/272.png"
     },
     "Seedot": {
@@ -2019,6 +2290,7 @@
         "types": [
             "Grass"
         ],
+        "generation": 3,
         "picture": "./Pictures/273.png"
     },
     "Nuzleaf": {
@@ -2027,6 +2299,7 @@
             "Grass",
             "Dark"
         ],
+        "generation": 3,
         "picture": "./Pictures/274.png"
     },
     "Shiftry": {
@@ -2035,6 +2308,7 @@
             "Grass",
             "Dark"
         ],
+        "generation": 3,
         "picture": "./Pictures/275.png"
     },
     "Taillow": {
@@ -2043,6 +2317,7 @@
             "Normal",
             "Flying"
         ],
+        "generation": 3,
         "picture": "./Pictures/276.png"
     },
     "Swellow": {
@@ -2051,6 +2326,7 @@
             "Normal",
             "Flying"
         ],
+        "generation": 3,
         "picture": "./Pictures/277.png"
     },
     "Wingull": {
@@ -2059,6 +2335,7 @@
             "Water",
             "Flying"
         ],
+        "generation": 3,
         "picture": "./Pictures/278.png"
     },
     "Pelipper": {
@@ -2067,6 +2344,7 @@
             "Water",
             "Flying"
         ],
+        "generation": 3,
         "picture": "./Pictures/279.png"
     },
     "Ralts": {
@@ -2074,6 +2352,7 @@
         "types": [
             "Psychic"
         ],
+        "generation": 3,
         "picture": "./Pictures/280.png"
     },
     "Kirlia": {
@@ -2081,6 +2360,7 @@
         "types": [
             "Psychic"
         ],
+        "generation": 3,
         "picture": "./Pictures/281.png"
     },
     "Gardevoir": {
@@ -2088,6 +2368,7 @@
         "types": [
             "Psychic"
         ],
+        "generation": 3,
         "picture": "./Pictures/282.png"
     },
     "Surskit": {
@@ -2096,6 +2377,7 @@
             "Bug",
             "Water"
         ],
+        "generation": 3,
         "picture": "./Pictures/283.png"
     },
     "Masquerain": {
@@ -2104,6 +2386,7 @@
             "Bug",
             "Flying"
         ],
+        "generation": 3,
         "picture": "./Pictures/284.png"
     },
     "Shroomish": {
@@ -2111,6 +2394,7 @@
         "types": [
             "Grass"
         ],
+        "generation": 3,
         "picture": "./Pictures/285.png"
     },
     "Breloom": {
@@ -2119,6 +2403,7 @@
             "Grass",
             "Fighting"
         ],
+        "generation": 3,
         "picture": "./Pictures/286.png"
     },
     "Slakoth": {
@@ -2126,6 +2411,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 3,
         "picture": "./Pictures/287.png"
     },
     "Vigoroth": {
@@ -2133,6 +2419,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 3,
         "picture": "./Pictures/288.png"
     },
     "Slaking": {
@@ -2140,6 +2427,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 3,
         "picture": "./Pictures/289.png"
     },
     "Nincada": {
@@ -2148,6 +2436,7 @@
             "Bug",
             "Ground"
         ],
+        "generation": 3,
         "picture": "./Pictures/290.png"
     },
     "Ninjask": {
@@ -2156,6 +2445,7 @@
             "Bug",
             "Flying"
         ],
+        "generation": 3,
         "picture": "./Pictures/291.png"
     },
     "Shedinja": {
@@ -2164,6 +2454,7 @@
             "Bug",
             "Ghost"
         ],
+        "generation": 3,
         "picture": "./Pictures/292.png"
     },
     "Whismur": {
@@ -2171,6 +2462,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 3,
         "picture": "./Pictures/293.png"
     },
     "Loudred": {
@@ -2178,6 +2470,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 3,
         "picture": "./Pictures/294.png"
     },
     "Exploud": {
@@ -2185,6 +2478,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 3,
         "picture": "./Pictures/295.png"
     },
     "Makuhita": {
@@ -2192,6 +2486,7 @@
         "types": [
             "Fighting"
         ],
+        "generation": 3,
         "picture": "./Pictures/296.png"
     },
     "Hariyama": {
@@ -2199,6 +2494,7 @@
         "types": [
             "Fighting"
         ],
+        "generation": 3,
         "picture": "./Pictures/297.png"
     },
     "Azurill": {
@@ -2206,6 +2502,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 3,
         "picture": "./Pictures/298.png"
     },
     "Nosepass": {
@@ -2213,6 +2510,7 @@
         "types": [
             "Rock"
         ],
+        "generation": 3,
         "picture": "./Pictures/299.png"
     },
     "Skitty": {
@@ -2220,6 +2518,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 3,
         "picture": "./Pictures/300.png"
     },
     "Delcatty": {
@@ -2227,6 +2526,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 3,
         "picture": "./Pictures/301.png"
     },
     "Sableye": {
@@ -2235,6 +2535,7 @@
             "Dark",
             "Ghost"
         ],
+        "generation": 3,
         "picture": "./Pictures/302.png"
     },
     "Mawile": {
@@ -2242,6 +2543,7 @@
         "types": [
             "Steel"
         ],
+        "generation": 3,
         "picture": "./Pictures/303.png"
     },
     "Aron": {
@@ -2250,6 +2552,7 @@
             "Steel",
             "Rock"
         ],
+        "generation": 3,
         "picture": "./Pictures/304.png"
     },
     "Lairon": {
@@ -2258,6 +2561,7 @@
             "Steel",
             "Rock"
         ],
+        "generation": 3,
         "picture": "./Pictures/305.png"
     },
     "Aggron": {
@@ -2266,6 +2570,7 @@
             "Steel",
             "Rock"
         ],
+        "generation": 3,
         "picture": "./Pictures/306.png"
     },
     "Meditite": {
@@ -2274,6 +2579,7 @@
             "Fighting",
             "Psychic"
         ],
+        "generation": 3,
         "picture": "./Pictures/307.png"
     },
     "Medicham": {
@@ -2282,6 +2588,7 @@
             "Fighting",
             "Psychic"
         ],
+        "generation": 3,
         "picture": "./Pictures/308.png"
     },
     "Electrike": {
@@ -2289,6 +2596,7 @@
         "types": [
             "Electric"
         ],
+        "generation": 3,
         "picture": "./Pictures/309.png"
     },
     "Manectric": {
@@ -2296,6 +2604,7 @@
         "types": [
             "Electric"
         ],
+        "generation": 3,
         "picture": "./Pictures/310.png"
     },
     "Plusle": {
@@ -2303,6 +2612,7 @@
         "types": [
             "Electric"
         ],
+        "generation": 3,
         "picture": "./Pictures/311.png"
     },
     "Minun": {
@@ -2310,6 +2620,7 @@
         "types": [
             "Electric"
         ],
+        "generation": 3,
         "picture": "./Pictures/312.png"
     },
     "Volbeat": {
@@ -2317,6 +2628,7 @@
         "types": [
             "Bug"
         ],
+        "generation": 3,
         "picture": "./Pictures/313.png"
     },
     "Illumise": {
@@ -2324,6 +2636,7 @@
         "types": [
             "Bug"
         ],
+        "generation": 3,
         "picture": "./Pictures/314.png"
     },
     "Roselia": {
@@ -2332,6 +2645,7 @@
             "Grass",
             "Poison"
         ],
+        "generation": 3,
         "picture": "./Pictures/315.png"
     },
     "Gulpin": {
@@ -2339,6 +2653,7 @@
         "types": [
             "Poison"
         ],
+        "generation": 3,
         "picture": "./Pictures/316.png"
     },
     "Swalot": {
@@ -2346,6 +2661,7 @@
         "types": [
             "Poison"
         ],
+        "generation": 3,
         "picture": "./Pictures/317.png"
     },
     "Carvanha": {
@@ -2354,6 +2670,7 @@
             "Water",
             "Dark"
         ],
+        "generation": 3,
         "picture": "./Pictures/318.png"
     },
     "Sharpedo": {
@@ -2362,6 +2679,7 @@
             "Water",
             "Dark"
         ],
+        "generation": 3,
         "picture": "./Pictures/319.png"
     },
     "Wailmer": {
@@ -2369,6 +2687,7 @@
         "types": [
             "Water"
         ],
+        "generation": 3,
         "picture": "./Pictures/320.png"
     },
     "Wailord": {
@@ -2376,6 +2695,7 @@
         "types": [
             "Water"
         ],
+        "generation": 3,
         "picture": "./Pictures/321.png"
     },
     "Numel": {
@@ -2384,6 +2704,7 @@
             "Fire",
             "Ground"
         ],
+        "generation": 3,
         "picture": "./Pictures/322.png"
     },
     "Camerupt": {
@@ -2392,6 +2713,7 @@
             "Fire",
             "Ground"
         ],
+        "generation": 3,
         "picture": "./Pictures/323.png"
     },
     "Torkoal": {
@@ -2399,6 +2721,7 @@
         "types": [
             "Fire"
         ],
+        "generation": 3,
         "picture": "./Pictures/324.png"
     },
     "Spoink": {
@@ -2406,6 +2729,7 @@
         "types": [
             "Psychic"
         ],
+        "generation": 3,
         "picture": "./Pictures/325.png"
     },
     "Grumpig": {
@@ -2413,6 +2737,7 @@
         "types": [
             "Psychic"
         ],
+        "generation": 3,
         "picture": "./Pictures/326.png"
     },
     "Spinda": {
@@ -2420,6 +2745,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 3,
         "picture": "./Pictures/327.png"
     },
     "Trapinch": {
@@ -2427,6 +2753,7 @@
         "types": [
             "Ground"
         ],
+        "generation": 3,
         "picture": "./Pictures/328.png"
     },
     "Vibrava": {
@@ -2435,6 +2762,7 @@
             "Ground",
             "Dragon"
         ],
+        "generation": 3,
         "picture": "./Pictures/329.png"
     },
     "Flygon": {
@@ -2443,6 +2771,7 @@
             "Ground",
             "Dragon"
         ],
+        "generation": 3,
         "picture": "./Pictures/330.png"
     },
     "Cacnea": {
@@ -2450,6 +2779,7 @@
         "types": [
             "Grass"
         ],
+        "generation": 3,
         "picture": "./Pictures/331.png"
     },
     "Cacturne": {
@@ -2458,6 +2788,7 @@
             "Grass",
             "Dark"
         ],
+        "generation": 3,
         "picture": "./Pictures/332.png"
     },
     "Swablu": {
@@ -2466,6 +2797,7 @@
             "Normal",
             "Flying"
         ],
+        "generation": 3,
         "picture": "./Pictures/333.png"
     },
     "Altaria": {
@@ -2474,6 +2806,7 @@
             "Dragon",
             "Flying"
         ],
+        "generation": 3,
         "picture": "./Pictures/334.png"
     },
     "Zangoose": {
@@ -2481,6 +2814,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 3,
         "picture": "./Pictures/335.png"
     },
     "Seviper": {
@@ -2488,6 +2822,7 @@
         "types": [
             "Poison"
         ],
+        "generation": 3,
         "picture": "./Pictures/336.png"
     },
     "Lunatone": {
@@ -2496,6 +2831,7 @@
             "Rock",
             "Psychic"
         ],
+        "generation": 3,
         "picture": "./Pictures/337.png"
     },
     "Solrock": {
@@ -2504,6 +2840,7 @@
             "Rock",
             "Psychic"
         ],
+        "generation": 3,
         "picture": "./Pictures/338.png"
     },
     "Barboach": {
@@ -2512,6 +2849,7 @@
             "Water",
             "Ground"
         ],
+        "generation": 3,
         "picture": "./Pictures/339.png"
     },
     "Whiscash": {
@@ -2520,6 +2858,7 @@
             "Water",
             "Ground"
         ],
+        "generation": 3,
         "picture": "./Pictures/340.png"
     },
     "Corphish": {
@@ -2527,6 +2866,7 @@
         "types": [
             "Water"
         ],
+        "generation": 3,
         "picture": "./Pictures/341.png"
     },
     "Crawdaunt": {
@@ -2535,6 +2875,7 @@
             "Water",
             "Dark"
         ],
+        "generation": 3,
         "picture": "./Pictures/342.png"
     },
     "Baltoy": {
@@ -2543,6 +2884,7 @@
             "Ground",
             "Psychic"
         ],
+        "generation": 3,
         "picture": "./Pictures/343.png"
     },
     "Claydol": {
@@ -2551,6 +2893,7 @@
             "Ground",
             "Psychic"
         ],
+        "generation": 3,
         "picture": "./Pictures/344.png"
     },
     "Lileep": {
@@ -2559,6 +2902,7 @@
             "Rock",
             "Grass"
         ],
+        "generation": 3,
         "picture": "./Pictures/345.png"
     },
     "Cradily": {
@@ -2567,6 +2911,7 @@
             "Rock",
             "Grass"
         ],
+        "generation": 3,
         "picture": "./Pictures/346.png"
     },
     "Anorith": {
@@ -2575,6 +2920,7 @@
             "Rock",
             "Bug"
         ],
+        "generation": 3,
         "picture": "./Pictures/347.png"
     },
     "Armaldo": {
@@ -2583,6 +2929,7 @@
             "Rock",
             "Bug"
         ],
+        "generation": 3,
         "picture": "./Pictures/348.png"
     },
     "Feebas": {
@@ -2590,6 +2937,7 @@
         "types": [
             "Water"
         ],
+        "generation": 3,
         "picture": "./Pictures/349.png"
     },
     "Milotic": {
@@ -2597,6 +2945,7 @@
         "types": [
             "Water"
         ],
+        "generation": 3,
         "picture": "./Pictures/350.png"
     },
     "Castform": {
@@ -2604,6 +2953,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 3,
         "picture": "./Pictures/351.png"
     },
     "Kecleon": {
@@ -2611,6 +2961,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 3,
         "picture": "./Pictures/352.png"
     },
     "Shuppet": {
@@ -2618,6 +2969,7 @@
         "types": [
             "Ghost"
         ],
+        "generation": 3,
         "picture": "./Pictures/353.png"
     },
     "Banette": {
@@ -2625,6 +2977,7 @@
         "types": [
             "Ghost"
         ],
+        "generation": 3,
         "picture": "./Pictures/354.png"
     },
     "Duskull": {
@@ -2632,6 +2985,7 @@
         "types": [
             "Ghost"
         ],
+        "generation": 3,
         "picture": "./Pictures/355.png"
     },
     "Dusclops": {
@@ -2639,6 +2993,7 @@
         "types": [
             "Ghost"
         ],
+        "generation": 3,
         "picture": "./Pictures/356.png"
     },
     "Tropius": {
@@ -2647,6 +3002,7 @@
             "Grass",
             "Flying"
         ],
+        "generation": 3,
         "picture": "./Pictures/357.png"
     },
     "Chimecho": {
@@ -2654,6 +3010,7 @@
         "types": [
             "Psychic"
         ],
+        "generation": 3,
         "picture": "./Pictures/358.png"
     },
     "Absol": {
@@ -2661,6 +3018,7 @@
         "types": [
             "Dark"
         ],
+        "generation": 3,
         "picture": "./Pictures/359.png"
     },
     "Wynaut": {
@@ -2668,6 +3026,7 @@
         "types": [
             "Psychic"
         ],
+        "generation": 3,
         "picture": "./Pictures/360.png"
     },
     "Snorunt": {
@@ -2675,6 +3034,7 @@
         "types": [
             "Ice"
         ],
+        "generation": 3,
         "picture": "./Pictures/361.png"
     },
     "Glalie": {
@@ -2682,6 +3042,7 @@
         "types": [
             "Ice"
         ],
+        "generation": 3,
         "picture": "./Pictures/362.png"
     },
     "SPHEAL": {
@@ -2690,6 +3051,7 @@
             "Ice",
             "Water"
         ],
+        "generation": 3,
         "picture": "./Pictures/363.png"
     },
     "Sealeo": {
@@ -2698,6 +3060,7 @@
             "Ice",
             "Water"
         ],
+        "generation": 3,
         "picture": "./Pictures/364.png"
     },
     "Walrein": {
@@ -2706,6 +3069,7 @@
             "Ice",
             "Water"
         ],
+        "generation": 3,
         "picture": "./Pictures/365.png"
     },
     "Clamperl": {
@@ -2713,6 +3077,7 @@
         "types": [
             "Water"
         ],
+        "generation": 3,
         "picture": "./Pictures/366.png"
     },
     "Huntail": {
@@ -2720,6 +3085,7 @@
         "types": [
             "Water"
         ],
+        "generation": 3,
         "picture": "./Pictures/367.png"
     },
     "Gorebyss": {
@@ -2727,6 +3093,7 @@
         "types": [
             "Water"
         ],
+        "generation": 3,
         "picture": "./Pictures/368.png"
     },
     "Relicanth": {
@@ -2735,6 +3102,7 @@
             "Water",
             "Rock"
         ],
+        "generation": 3,
         "picture": "./Pictures/369.png"
     },
     "Luvdisc": {
@@ -2742,6 +3110,7 @@
         "types": [
             "Water"
         ],
+        "generation": 3,
         "picture": "./Pictures/370.png"
     },
     "Bagon": {
@@ -2749,6 +3118,7 @@
         "types": [
             "Dragon"
         ],
+        "generation": 3,
         "picture": "./Pictures/371.png"
     },
     "Shelgon": {
@@ -2756,6 +3126,7 @@
         "types": [
             "Dragon"
         ],
+        "generation": 3,
         "picture": "./Pictures/372.png"
     },
     "Salamence": {
@@ -2764,6 +3135,7 @@
             "Dragon",
             "Flying"
         ],
+        "generation": 3,
         "picture": "./Pictures/373.png"
     },
     "Beldum": {
@@ -2772,6 +3144,7 @@
             "Steel",
             "Psychic"
         ],
+        "generation": 3,
         "picture": "./Pictures/374.png"
     },
     "Metang": {
@@ -2780,6 +3153,7 @@
             "Steel",
             "Psychic"
         ],
+        "generation": 3,
         "picture": "./Pictures/375.png"
     },
     "Metagross": {
@@ -2788,6 +3162,7 @@
             "Steel",
             "Psychic"
         ],
+        "generation": 3,
         "picture": "./Pictures/376.png"
     },
     "Regirock": {
@@ -2795,6 +3170,7 @@
         "types": [
             "Rock"
         ],
+        "generation": 3,
         "picture": "./Pictures/377.png"
     },
     "Regice": {
@@ -2802,6 +3178,7 @@
         "types": [
             "Ice"
         ],
+        "generation": 3,
         "picture": "./Pictures/378.png"
     },
     "Registeel": {
@@ -2809,6 +3186,7 @@
         "types": [
             "Steel"
         ],
+        "generation": 3,
         "picture": "./Pictures/379.png"
     },
     "Latias": {
@@ -2817,6 +3195,7 @@
             "Dragon",
             "Psychic"
         ],
+        "generation": 3,
         "picture": "./Pictures/380.png"
     },
     "Latios": {
@@ -2825,6 +3204,7 @@
             "Dragon",
             "Psychic"
         ],
+        "generation": 3,
         "picture": "./Pictures/381.png"
     },
     "Kyogre": {
@@ -2832,6 +3212,7 @@
         "types": [
             "Water"
         ],
+        "generation": 3,
         "picture": "./Pictures/382.png"
     },
     "Groudon": {
@@ -2839,6 +3220,7 @@
         "types": [
             "Ground"
         ],
+        "generation": 3,
         "picture": "./Pictures/383.png"
     },
     "Rayquaza": {
@@ -2847,6 +3229,7 @@
             "Dragon",
             "Flying"
         ],
+        "generation": 3,
         "picture": "./Pictures/384.png"
     },
     "Jirachi": {
@@ -2855,6 +3238,7 @@
             "Steel",
             "Psychic"
         ],
+        "generation": 3,
         "picture": "./Pictures/385.png"
     },
     "Deoxys": {
@@ -2862,6 +3246,7 @@
         "types": [
             "Psychic"
         ],
+        "generation": 3,
         "picture": "./Pictures/386.png"
     },
     "Turtwig": {
@@ -2869,6 +3254,7 @@
         "types": [
             "Grass"
         ],
+        "generation": 4,
         "picture": "./Pictures/387.png"
     },
     "Grotle": {
@@ -2876,6 +3262,7 @@
         "types": [
             "Grass"
         ],
+        "generation": 4,
         "picture": "./Pictures/388.png"
     },
     "Tortera": {
@@ -2884,6 +3271,7 @@
             "Grass",
             "Ground"
         ],
+        "generation": 4,
         "picture": "./Pictures/389.png"
     },
     "Chimchar": {
@@ -2891,6 +3279,7 @@
         "types": [
             "Fire"
         ],
+        "generation": 4,
         "picture": "./Pictures/390.png"
     },
     "Monferno": {
@@ -2899,6 +3288,7 @@
             "Fire",
             "Fighting"
         ],
+        "generation": 4,
         "picture": "./Pictures/391.png"
     },
     "Infernape": {
@@ -2907,6 +3297,7 @@
             "Fire",
             "Fighting"
         ],
+        "generation": 4,
         "picture": "./Pictures/392.png"
     },
     "Piplup": {
@@ -2914,6 +3305,7 @@
         "types": [
             "Water"
         ],
+        "generation": 4,
         "picture": "./Pictures/393.png"
     },
     "Prinplup": {
@@ -2921,6 +3313,7 @@
         "types": [
             "Water"
         ],
+        "generation": 4,
         "picture": "./Pictures/394.png"
     },
     "Empoleon": {
@@ -2929,6 +3322,7 @@
             "Water",
             "Steel"
         ],
+        "generation": 4,
         "picture": "./Pictures/395.png"
     },
     "Starly": {
@@ -2937,6 +3331,7 @@
             "Normal",
             "Flying"
         ],
+        "generation": 4,
         "picture": "./Pictures/396.png"
     },
     "Staravia": {
@@ -2945,6 +3340,7 @@
             "Normal",
             "Flying"
         ],
+        "generation": 4,
         "picture": "./Pictures/397.png"
     },
     "Staraptor": {
@@ -2953,6 +3349,7 @@
             "Normal",
             "Flying"
         ],
+        "generation": 4,
         "picture": "./Pictures/398.png"
     },
     "Bidoof": {
@@ -2960,6 +3357,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 4,
         "picture": "./Pictures/399.png"
     },
     "Bibarel": {
@@ -2968,6 +3366,7 @@
             "Normal",
             "Water"
         ],
+        "generation": 4,
         "picture": "./Pictures/400.png"
     },
     "Kricketot": {
@@ -2975,6 +3374,7 @@
         "types": [
             "Bug"
         ],
+        "generation": 4,
         "picture": "./Pictures/401.png"
     },
     "Kricketune": {
@@ -2982,6 +3382,7 @@
         "types": [
             "Bug"
         ],
+        "generation": 4,
         "picture": "./Pictures/402.png"
     },
     "Shinx": {
@@ -2989,6 +3390,7 @@
         "types": [
             "Electric"
         ],
+        "generation": 4,
         "picture": "./Pictures/403.png"
     },
     "Luxio": {
@@ -2996,6 +3398,7 @@
         "types": [
             "Electric"
         ],
+        "generation": 4,
         "picture": "./Pictures/404.png"
     },
     "Luxray": {
@@ -3003,6 +3406,7 @@
         "types": [
             "Electric"
         ],
+        "generation": 4,
         "picture": "./Pictures/405.png"
     },
     "Budew": {
@@ -3011,6 +3415,7 @@
             "Grass",
             "Poison"
         ],
+        "generation": 4,
         "picture": "./Pictures/406.png"
     },
     "Roserade": {
@@ -3019,6 +3424,7 @@
             "Grass",
             "Poison"
         ],
+        "generation": 4,
         "picture": "./Pictures/407.png"
     },
     "Cranidos": {
@@ -3026,6 +3432,7 @@
         "types": [
             "Rock"
         ],
+        "generation": 4,
         "picture": "./Pictures/408.png"
     },
     "Rampardos": {
@@ -3033,6 +3440,7 @@
         "types": [
             "Rock"
         ],
+        "generation": 4,
         "picture": "./Pictures/409.png"
     },
     "Shieldon": {
@@ -3041,6 +3449,7 @@
             "Rock",
             "Steel"
         ],
+        "generation": 4,
         "picture": "./Pictures/410.png"
     },
     "Bastiodon": {
@@ -3049,6 +3458,7 @@
             "Rock",
             "Steel"
         ],
+        "generation": 4,
         "picture": "./Pictures/411.png"
     },
     "Burmy": {
@@ -3056,6 +3466,7 @@
         "types": [
             "Bug"
         ],
+        "generation": 4,
         "picture": "./Pictures/412.png"
     },
     "Wormadam": {
@@ -3064,6 +3475,7 @@
             "Bug",
             "Grass"
         ],
+        "generation": 4,
         "picture": "./Pictures/413.png"
     },
     "Mothim": {
@@ -3072,6 +3484,7 @@
             "Bug",
             "Flying"
         ],
+        "generation": 4,
         "picture": "./Pictures/414.png"
     },
     "Combee": {
@@ -3080,6 +3493,7 @@
             "Bug",
             "Flying"
         ],
+        "generation": 4,
         "picture": "./Pictures/415.png"
     },
     "Vespiquen": {
@@ -3088,6 +3502,7 @@
             "Bug",
             "Flying"
         ],
+        "generation": 4,
         "picture": "./Pictures/416.png"
     },
     "Pachirisu": {
@@ -3095,6 +3510,7 @@
         "types": [
             "Electric"
         ],
+        "generation": 4,
         "picture": "./Pictures/417.png"
     },
     "Buizel": {
@@ -3102,6 +3518,7 @@
         "types": [
             "Water"
         ],
+        "generation": 4,
         "picture": "./Pictures/418.png"
     },
     "Floatzel": {
@@ -3109,6 +3526,7 @@
         "types": [
             "Water"
         ],
+        "generation": 4,
         "picture": "./Pictures/419.png"
     },
     "Cherubi": {
@@ -3116,6 +3534,7 @@
         "types": [
             "Grass"
         ],
+        "generation": 4,
         "picture": "./Pictures/420.png"
     },
     "Cherrim": {
@@ -3123,6 +3542,7 @@
         "types": [
             "Grass"
         ],
+        "generation": 4,
         "picture": "./Pictures/421.png"
     },
     "Shellos": {
@@ -3130,6 +3550,7 @@
         "types": [
             "Water"
         ],
+        "generation": 4,
         "picture": "./Pictures/422.png"
     },
     "Gastrodon": {
@@ -3138,6 +3559,7 @@
             "Water",
             "Ground"
         ],
+        "generation": 4,
         "picture": "./Pictures/423.png"
     },
     "Ambipom": {
@@ -3145,6 +3567,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 4,
         "picture": "./Pictures/424.png"
     },
     "Drifloon": {
@@ -3153,6 +3576,7 @@
             "Ghost",
             "Flying"
         ],
+        "generation": 4,
         "picture": "./Pictures/425.png"
     },
     "Drifblim": {
@@ -3161,6 +3585,7 @@
             "Ghost",
             "Flying"
         ],
+        "generation": 4,
         "picture": "./Pictures/426.png"
     },
     "Buneary": {
@@ -3168,6 +3593,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 4,
         "picture": "./Pictures/427.png"
     },
     "Lopunny": {
@@ -3175,6 +3601,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 4,
         "picture": "./Pictures/428.png"
     },
     "Mismagius": {
@@ -3182,6 +3609,7 @@
         "types": [
             "Ghost"
         ],
+        "generation": 4,
         "picture": "./Pictures/429.png"
     },
     "Honchkrow": {
@@ -3190,6 +3618,7 @@
             "Dark",
             "Flying"
         ],
+        "generation": 4,
         "picture": "./Pictures/430.png"
     },
     "Glameow": {
@@ -3197,6 +3626,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 4,
         "picture": "./Pictures/431.png"
     },
     "Purugly": {
@@ -3204,6 +3634,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 4,
         "picture": "./Pictures/432.png"
     },
     "Chingling": {
@@ -3211,6 +3642,7 @@
         "types": [
             "Psychic"
         ],
+        "generation": 4,
         "picture": "./Pictures/433.png"
     },
     "Stunky": {
@@ -3219,6 +3651,7 @@
             "Poison",
             "Dark"
         ],
+        "generation": 4,
         "picture": "./Pictures/434.png"
     },
     "Skuntank": {
@@ -3227,6 +3660,7 @@
             "Poison",
             "Dark"
         ],
+        "generation": 4,
         "picture": "./Pictures/435.png"
     },
     "Bronzor": {
@@ -3235,6 +3669,7 @@
             "Steel",
             "Psychic"
         ],
+        "generation": 4,
         "picture": "./Pictures/436.png"
     },
     "Bronzong": {
@@ -3243,6 +3678,7 @@
             "Steel",
             "Psychic"
         ],
+        "generation": 4,
         "picture": "./Pictures/437.png"
     },
     "Bonsly": {
@@ -3250,6 +3686,7 @@
         "types": [
             "Rock"
         ],
+        "generation": 4,
         "picture": "./Pictures/438.png"
     },
     "Mime Jr.": {
@@ -3257,6 +3694,7 @@
         "types": [
             "Psychic"
         ],
+        "generation": 4,
         "picture": "./Pictures/439.png"
     },
     "Happiny": {
@@ -3264,6 +3702,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 4,
         "picture": "./Pictures/440.png"
     },
     "Chatot": {
@@ -3272,6 +3711,7 @@
             "Normal",
             "Flying"
         ],
+        "generation": 4,
         "picture": "./Pictures/441.png"
     },
     "Spiritomb": {
@@ -3280,6 +3720,7 @@
             "Ghost",
             "Dark"
         ],
+        "generation": 4,
         "picture": "./Pictures/442.png"
     },
     "Gible": {
@@ -3288,6 +3729,7 @@
             "Dragon",
             "Ground"
         ],
+        "generation": 4,
         "picture": "./Pictures/443.png"
     },
     "Gabite": {
@@ -3296,6 +3738,7 @@
             "Dragon",
             "Ground"
         ],
+        "generation": 4,
         "picture": "./Pictures/444.png"
     },
     "Garchomp": {
@@ -3304,6 +3747,7 @@
             "Dragon",
             "Ground"
         ],
+        "generation": 4,
         "picture": "./Pictures/445.png"
     },
     "Munchlax": {
@@ -3311,6 +3755,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 4,
         "picture": "./Pictures/446.png"
     },
     "Riolu": {
@@ -3318,6 +3763,7 @@
         "types": [
             "Fighting"
         ],
+        "generation": 4,
         "picture": "./Pictures/447.png"
     },
     "Lucario": {
@@ -3326,6 +3772,7 @@
             "Fighting",
             "Steel"
         ],
+        "generation": 4,
         "picture": "./Pictures/448.png"
     },
     "Hippopotas": {
@@ -3333,6 +3780,7 @@
         "types": [
             "Ground"
         ],
+        "generation": 4,
         "picture": "./Pictures/449.png"
     },
     "Hippowdon": {
@@ -3340,6 +3788,7 @@
         "types": [
             "Ground"
         ],
+        "generation": 4,
         "picture": "./Pictures/450.png"
     },
     "Skorupi": {
@@ -3348,6 +3797,7 @@
             "Poison",
             "Bug"
         ],
+        "generation": 4,
         "picture": "./Pictures/451.png"
     },
     "Drapion": {
@@ -3356,6 +3806,7 @@
             "Poison",
             "Dark"
         ],
+        "generation": 4,
         "picture": "./Pictures/452.png"
     },
     "Croagunk": {
@@ -3364,6 +3815,7 @@
             "Poison",
             "Fighting"
         ],
+        "generation": 4,
         "picture": "./Pictures/453.png"
     },
     "Toxicroak": {
@@ -3372,6 +3824,7 @@
             "Poison",
             "Fighting"
         ],
+        "generation": 4,
         "picture": "./Pictures/454.png"
     },
     "Carnivine": {
@@ -3379,6 +3832,7 @@
         "types": [
             "Grass"
         ],
+        "generation": 4,
         "picture": "./Pictures/455.png"
     },
     "Finneon": {
@@ -3386,6 +3840,7 @@
         "types": [
             "Water"
         ],
+        "generation": 4,
         "picture": "./Pictures/456.png"
     },
     "Lumineon": {
@@ -3393,6 +3848,7 @@
         "types": [
             "Water"
         ],
+        "generation": 4,
         "picture": "./Pictures/457.png"
     },
     "Mantyke": {
@@ -3401,6 +3857,7 @@
             "Water",
             "Flying"
         ],
+        "generation": 4,
         "picture": "./Pictures/458.png"
     },
     "Snover": {
@@ -3409,6 +3866,7 @@
             "Grass",
             "Ice"
         ],
+        "generation": 4,
         "picture": "./Pictures/459.png"
     },
     "Abomasnow": {
@@ -3417,6 +3875,7 @@
             "Grass",
             "Ice"
         ],
+        "generation": 4,
         "picture": "./Pictures/460.png"
     },
     "Weavile": {
@@ -3425,6 +3884,7 @@
             "Dark",
             "Ice"
         ],
+        "generation": 4,
         "picture": "./Pictures/461.png"
     },
     "Magnezone": {
@@ -3433,6 +3893,7 @@
             "Electric",
             "Steel"
         ],
+        "generation": 4,
         "picture": "./Pictures/462.png"
     },
     "Lickilicky": {
@@ -3440,6 +3901,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 4,
         "picture": "./Pictures/463.png"
     },
     "Rhyperior": {
@@ -3448,6 +3910,7 @@
             "Ground",
             "Rock"
         ],
+        "generation": 4,
         "picture": "./Pictures/464.png"
     },
     "Tangrowth": {
@@ -3455,6 +3918,7 @@
         "types": [
             "Grass"
         ],
+        "generation": 4,
         "picture": "./Pictures/465.png"
     },
     "Electivire": {
@@ -3462,6 +3926,7 @@
         "types": [
             "Electric"
         ],
+        "generation": 4,
         "picture": "./Pictures/466.png"
     },
     "Magmortar": {
@@ -3469,6 +3934,7 @@
         "types": [
             "Fire"
         ],
+        "generation": 4,
         "picture": "./Pictures/467.png"
     },
     "Togekiss": {
@@ -3477,6 +3943,7 @@
             "Normal",
             "Flying"
         ],
+        "generation": 4,
         "picture": "./Pictures/468.png"
     },
     "Yanmega": {
@@ -3485,6 +3952,7 @@
             "Bug",
             "Flying"
         ],
+        "generation": 4,
         "picture": "./Pictures/469.png"
     },
     "Leafeon": {
@@ -3492,6 +3960,7 @@
         "types": [
             "Grass"
         ],
+        "generation": 4,
         "picture": "./Pictures/470.png"
     },
     "Glaceon": {
@@ -3499,6 +3968,7 @@
         "types": [
             "Ice"
         ],
+        "generation": 4,
         "picture": "./Pictures/471.png"
     },
     "Gliscor": {
@@ -3507,6 +3977,7 @@
             "Ground",
             "Flying"
         ],
+        "generation": 4,
         "picture": "./Pictures/472.png"
     },
     "Mamoswine": {
@@ -3515,6 +3986,7 @@
             "Ice",
             "Ground"
         ],
+        "generation": 4,
         "picture": "./Pictures/473.png"
     },
     "Porygon-Z": {
@@ -3522,6 +3994,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 4,
         "picture": "./Pictures/474.png"
     },
     "Gallade": {
@@ -3530,6 +4003,7 @@
             "Psychic",
             "Fighting"
         ],
+        "generation": 4,
         "picture": "./Pictures/475.png"
     },
     "Probopass": {
@@ -3538,6 +4012,7 @@
             "Rock",
             "Steel"
         ],
+        "generation": 4,
         "picture": "./Pictures/476.png"
     },
     "Dusknoir": {
@@ -3545,6 +4020,7 @@
         "types": [
             "Ghost"
         ],
+        "generation": 4,
         "picture": "./Pictures/477.png"
     },
     "Froslass": {
@@ -3553,6 +4029,7 @@
             "Ice",
             "Ghost"
         ],
+        "generation": 4,
         "picture": "./Pictures/478.png"
     },
     "Rotom": {
@@ -3561,6 +4038,7 @@
             "Electric",
             "Ghost"
         ],
+        "generation": 4,
         "picture": "./Pictures/479.png"
     },
     "Uxie": {
@@ -3568,6 +4046,7 @@
         "types": [
             "Psychic"
         ],
+        "generation": 4,
         "picture": "./Pictures/480.png"
     },
     "Mesprit": {
@@ -3575,6 +4054,7 @@
         "types": [
             "Psychic"
         ],
+        "generation": 4,
         "picture": "./Pictures/481.png"
     },
     "Azelf": {
@@ -3582,6 +4062,7 @@
         "types": [
             "Psychic"
         ],
+        "generation": 4,
         "picture": "./Pictures/482.png"
     },
     "Diagla": {
@@ -3590,6 +4071,7 @@
             "Steel",
             "Dragon"
         ],
+        "generation": 4,
         "picture": "./Pictures/483.png"
     },
     "Palkia": {
@@ -3598,6 +4080,7 @@
             "Water",
             "Dragon"
         ],
+        "generation": 4,
         "picture": "./Pictures/484.png"
     },
     "Heatran": {
@@ -3606,6 +4089,7 @@
             "Fire",
             "Steel"
         ],
+        "generation": 4,
         "picture": "./Pictures/485.png"
     },
     "Regigigas": {
@@ -3613,6 +4097,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 4,
         "picture": "./Pictures/486.png"
     },
     "Giratina": {
@@ -3621,6 +4106,7 @@
             "Ghost",
             "Dragon"
         ],
+        "generation": 4,
         "picture": "./Pictures/487.png"
     },
     "Cresselia": {
@@ -3628,6 +4114,7 @@
         "types": [
             "Psychic"
         ],
+        "generation": 4,
         "picture": "./Pictures/488.png"
     },
     "Phione": {
@@ -3635,6 +4122,7 @@
         "types": [
             "Water"
         ],
+        "generation": 4,
         "picture": "./Pictures/489.png"
     },
     "Manaphy": {
@@ -3642,6 +4130,7 @@
         "types": [
             "Water"
         ],
+        "generation": 4,
         "picture": "./Pictures/490.png"
     },
     "Darkrai": {
@@ -3649,6 +4138,7 @@
         "types": [
             "Dark"
         ],
+        "generation": 4,
         "picture": "./Pictures/491.png"
     },
     "Shaymin": {
@@ -3656,6 +4146,7 @@
         "types": [
             "Grass"
         ],
+        "generation": 4,
         "picture": "./Pictures/494.png"
     },
     "Arceus": {
@@ -3663,6 +4154,7 @@
         "types": [
             "Normal"
         ],
+        "generation": 4,
         "picture": "./Pictures/493.png"
     }
 }

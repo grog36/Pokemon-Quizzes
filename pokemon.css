@@ -4,7 +4,7 @@
 
 /* BODY */
 body {
-    background-color: pink;
+    background-color: white;
 }
 
 /* QUESTIONS */
@@ -25,11 +25,12 @@ body {
 .startButton {
     text-align: center;
     height: fit-content;
+    font-size: 24px;
 }
 .startButton > button {
     background-color: springgreen;
     padding: 14px;
-    font-size: 18px;
+    font-size: 80px;
 }
 
 /* RETRY BUTTON */
@@ -52,17 +53,34 @@ body {
     text-align: center;
 }
 .answerButtons > button {
+    font-size: 24px;
+    width: 16rem;
+    height: 10rem;
+    color: black;
+    font-weight: bold;
+    border-width: 5px;
+    border-color: black;
+}
+#answerButton1 {
     background-color: orange;
-    font-size: 20px;
-    width: 8rem;
-    height: 8rem;
-    color: darkslategrey;
+}
+#answerButton2 {
+    background-color:aquamarine;
+}
+#answerButton3 {
+    background-color: green;
+}
+#answerButton4 {
+    background-color: rgba(137, 43, 226, 0.714);
 }
 
 /* TIMER */
+.timer {
+    font-style: serif;
+    font-weight: bold;
+}
 .minutes {
     height: fit-content;
-    margin-top: -60px;
     display: flex;
     flex: right;
     visibility: hidden;
