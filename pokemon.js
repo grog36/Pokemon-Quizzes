@@ -32,7 +32,8 @@ const DOCELEMENTS = {
     "startButton": document.getElementById("startButton"),
     "retryButton": document.getElementById("retryButton"),
     "questions": document.getElementById("questions"),
-    "giveUpButton": document.getElementById("giveUpButton")
+    "giveUpButton": document.getElementById("giveUpButton"),
+    "music": document.getElementById("music")
 }
 
 //Start Function
@@ -51,6 +52,8 @@ function start() {
     DOCELEMENTS["secondsLabel"].style.visibility = "visible";
     DOCELEMENTS["questions"].style.visibility = "visible";
     DOCELEMENTS["giveUpButton"].style.visibility = "visible";
+    DOCELEMENTS["music"].play();
+    DOCELEMENTS["music"].volume = 0.1;
     document.getElementById("startButtonDiv").remove();
 
     //Starts the actual game
