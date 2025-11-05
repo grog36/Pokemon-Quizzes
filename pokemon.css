@@ -9,12 +9,10 @@ body {
 
 /* QUESTIONS */
 .questions {
-    height: fit-content;
     text-align: center;
     color: black;
     font-weight: bolder;
     font-size: 34px;
-    visibility: hidden;
 }
 #questions {
     height: 400px;
@@ -49,7 +47,6 @@ body {
 /* ANSWER BUTTONS */
 .answerButtons {
     height: fit-content;
-    visibility: hidden;
     text-align: center;
 }
 .answerButtons > button {
@@ -78,34 +75,35 @@ body {
 .timer {
     font-style: serif;
     font-weight: bold;
+    border-radius: 35px;
+    border-color: black;
+    border-style: solid;
+    background-color:blanchedalmond;
+    color: blue;
+    width: 160px;
+    height: fit-content;
+    float: left;
+    position: absolute;
+    top: 25%;
 }
 .minutes {
-    height: fit-content;
-    display: flex;
     flex: right;
-    visibility: hidden;
     text-align: right;
     font-size: large;
     font-weight: bolder;
-    color: blue;
+    text-align: center;
 }
 .seconds {
-    height: fit-content;
-    display: flex;
     flex: left;
-    visibility: hidden;
     text-align: right;
     font-size: large;
     font-weight: bolder;
-    color: blue;
+    text-align: center;
 }
 
 /* GIVE UP BUTTON */
 .giveUp {
-    height: fit-content;
-    display: flex;
     float: right;
-    visibility: hidden;
 }
 #giveUpButton {
     background-color: aquamarine;

@@ -576,6 +576,6 @@ function add_gen4() {
     ap(4,"Phione", 489, WATER);
     ap(4,"Manaphy", 490, WATER);
     ap(4,"Darkrai", 491, DARK);
-    ap(4,"Shaymin", 494, GRASS);
+    ap(4,"Shaymin", 492, GRASS);
     ap(4,"Arceus", 493, NORMAL);
 }

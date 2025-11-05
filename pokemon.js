@@ -21,6 +21,7 @@ let temporaryQuestionList = [];
 let temporaryAnswerList = [];
 let score = 0;
 const DOCELEMENTS = {
+    "game": document.getElementById("game"),
     "answerButton1": document.getElementById("answerButton1"),
     "answerButton2": document.getElementById("answerButton2"),
     "answerButton3": document.getElementById("answerButton3"),
@@ -52,14 +53,7 @@ function start() {
         }
     }
 
-    DOCELEMENTS["answerButton1"].style.visibility = "visible";
-    DOCELEMENTS["answerButton2"].style.visibility = "visible";
-    DOCELEMENTS["answerButton3"].style.visibility = "visible";
-    DOCELEMENTS["answerButton4"].style.visibility = "visible";
-    DOCELEMENTS["seconds"].style.visibility = "visible";
-    DOCELEMENTS["secondsLabel"].style.visibility = "visible";
-    DOCELEMENTS["questions"].style.visibility = "visible";
-    DOCELEMENTS["giveUpButton"].style.visibility = "visible";
+    DOCELEMENTS["game"].hidden = false;
     DOCELEMENTS["music"].load();
     DOCELEMENTS["music"].play();
     document.getElementById("startButtonDiv").remove();

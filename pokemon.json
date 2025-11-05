@@ -4142,12 +4142,12 @@
         "picture": "./Pictures/491.png"
     },
     "Shaymin": {
-        "number": 494,
+        "number": 492,
         "types": [
             "Grass"
         ],
         "generation": 4,
-        "picture": "./Pictures/494.png"
+        "picture": "./Pictures/492.png"
     },
     "Arceus": {
         "number": 493,
