@@ -1,13 +1,12 @@
-//Gregory Ecklund
-//October 2025
-//Pokemon Quiz
-
-
 /**
- * Import the pokemon.json file
+ * Script file for the Pokemon Quizzes webpage
+ * @author Gregory Ecklund
+ * @version November 5, 2025
  */
+
+
+//Import the pokedex
 let POKEMON = {};
-const GENERATION_COUNT = 4; //Number of generations in pokemon object
 setupPokemon();
 
 //Variables to be filled out by setupQuestions
@@ -15,25 +14,44 @@ let questionList = [];
 let answerList = [];
 
 //Good to go variables
+const GENERATION_COUNT = 4; //Number of generations in pokemon object
 let total = questionList.length;
 let answerLocationNumber;
 let temporaryQuestionList = [];
 let temporaryAnswerList = [];
 let score = 0;
+
+//All of the necessary elements from the webpage
 const DOCELEMENTS = {
-    "game": document.getElementById("game"),
+    //Divs
+    "divAnswerButtons": document.getElementById("divAnswerButtons"),
+    "divGame": document.getElementById("divGame"),
+    "divTimer": document.getElementById("divTimer"),
+    "divGiveUp": document.getElementById("divGiveUp"),
+    "divRetryButton": document.getElementById("divRetryButton"),
+    "divQuestions": document.getElementById("divQuestions"),
+
+    //Start components
+    "startButton": document.getElementById("startButton"),
+
+    //Question and Answer components
+    "questions": document.getElementById("questions"),
     "answerButton1": document.getElementById("answerButton1"),
     "answerButton2": document.getElementById("answerButton2"),
     "answerButton3": document.getElementById("answerButton3"),
     "answerButton4": document.getElementById("answerButton4"),
-    "seconds": document.getElementById("seconds"),
+
+    //Timer components
+    "minutesLabel": document.getElementById("minutesLabel"),
     "minutes": document.getElementById("minutes"),
     "secondsLabel": document.getElementById("secondsLabel"),
-    "minutesLabel": document.getElementById("minutesLabel"),
-    "startButton": document.getElementById("startButton"),
-    "retryButton": document.getElementById("retryButton"),
-    "questions": document.getElementById("questions"),
+    "seconds": document.getElementById("seconds"),
+
+    //Right-sidebar components
     "giveUpButton": document.getElementById("giveUpButton"),
+    "retryButton": document.getElementById("retryButton"),
+
+    //Music components
     "music": document.getElementById("music"),
     "musicSource": document.getElementById("musicSource"),
     "musicToggleLabel": document.getElementById("musicToggleLabel"),
@@ -53,10 +71,15 @@ function start() {
         }
     }
 
-    DOCELEMENTS["game"].hidden = false;
+    //Perform on-screen actions
+    DOCELEMENTS["divGame"].hidden = false;
+    DOCELEMENTS["divQuestions"].hidden = false;
+    DOCELEMENTS["divAnswerButtons"].hidden = false;
+    DOCELEMENTS["divTimer"].hidden = false;
+    DOCELEMENTS["divGiveUp"].hidden = false;
     DOCELEMENTS["music"].load();
     DOCELEMENTS["music"].play();
-    document.getElementById("startButtonDiv").remove();
+    document.getElementById("divStartButton").remove();
 
     //Starts the actual game
     nextQuestion();
@@ -65,12 +88,9 @@ function start() {
 
 //Displays the "You Win" Screen
 function youWin() {
-    DOCELEMENTS["retryButton"].style.visibility = "visible";
+    DOCELEMENTS["divAnswerButtons"].hidden = true;
+    DOCELEMENTS["divRetryButton"].hidden = false;
     DOCELEMENTS["retryButton"].innerHTML = "New Game?"
-    DOCELEMENTS["answerButton1"].style.visibility = "hidden";
-    DOCELEMENTS["answerButton2"].style.visibility = "hidden";
-    DOCELEMENTS["answerButton3"].style.visibility = "hidden";
-    DOCELEMENTS["answerButton4"].style.visibility = "hidden";
     DOCELEMENTS["giveUpButton"].style.visibility = "hidden";
     DOCELEMENTS["questions"].src = "./Pictures/win.png";
     document.body.style.background = "green";
@@ -149,12 +169,9 @@ function nextQuestion() {
 
 //Displays the "You Lose" Screen
 function youLose() {
-    DOCELEMENTS["retryButton"].style.visibility = "visible";
-    DOCELEMENTS["answerButton1"].style.visibility = "hidden";
-    DOCELEMENTS["answerButton2"].style.visibility = "hidden";
-    DOCELEMENTS["answerButton3"].style.visibility = "hidden";
-    DOCELEMENTS["answerButton4"].style.visibility = "hidden";
-    DOCELEMENTS["giveUpButton"].style.visibility = "hidden";
+    DOCELEMENTS["divAnswerButtons"].hidden = true;
+    DOCELEMENTS["divRetryButton"].hidden = false;
+    DOCELEMENTS["divGiveUp"].hidden = true;
     DOCELEMENTS["questions"].src = "./Pictures/lose.png";
     document.body.style.background = "red";
     stopTimer();
@@ -207,6 +224,10 @@ function stopTimer() {
     clearTimeout(timeout);
 }
 
+/**
+ * Adds a given generation to the current questions list
+ * @param {Number} genNum - The generation number to be added
+ */
 function chooseGen(genNum) {
     for (let mon in POKEMON) {
         if (POKEMON[mon]["generation"] === genNum) {

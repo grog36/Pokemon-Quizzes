@@ -1,55 +1,65 @@
-/* Gregory Ecklund */
-/* October 2025 */
-/* Pokemon Quiz */
+/*
+ * Styling sheet for the Pokemon Quizzes webpage
+ * @author Gregory Ecklund
+ * @version November 5, 2025
+ */
 
 /* BODY */
 body {
     background-color: white;
 }
 
+/* Multi-Div formatting */
+#divGame {
+    display: flex;
+}
+#divTimer, #divGiveUp, #divQAndA {
+    float: left;
+}
+
 /* QUESTIONS */
-.questions {
-    text-align: center;
+#divQuestions {
     color: black;
     font-weight: bolder;
     font-size: 34px;
+    text-align:center;
 }
 #questions {
     height: 400px;
     width: 400px;
 }
+#divQAndA {
+    width: 60%;
+}
 
 /* START BUTTON */
-.startButton {
+#divStartButton {
     text-align: center;
     height: fit-content;
     font-size: 24px;
 }
-.startButton > button {
+#divStartButton > button {
     background-color: springgreen;
     padding: 14px;
     font-size: 80px;
 }
 
 /* RETRY BUTTON */
-.retryButton {
-    height: fit-content;
-    visibility: hidden;
+#divRetryButton {
     text-align: center;
 }
-.retryButton > button {
+#retryButton {
     background-color: rgba(90, 3, 252, 0.315);
-    margin-top: -80px;
     font-size: 20px;
     padding: 14px;
 }
 
 /* ANSWER BUTTONS */
-.answerButtons {
-    height: fit-content;
+#divAnswerButtons {
     text-align: center;
+    height: fit-content;
 }
-.answerButtons > button {
+#divAnswerButtons > button {
     font-size: 24px;
     width: 16rem;
     height: 10rem;
@@ -72,7 +82,7 @@ body {
 }
 
 /* TIMER */
-.timer {
+#divTimer {
     font-style: serif;
     font-weight: bold;
     border-radius: 35px;
@@ -80,11 +90,8 @@ body {
     border-style: solid;
     background-color:blanchedalmond;
     color: blue;
-    width: 160px;
+    width: 20%;
     height: fit-content;
-    float: left;
-    position: absolute;
-    top: 25%;
 }
 .minutes {
     flex: right;
@@ -102,8 +109,10 @@ body {
 }
 
 /* GIVE UP BUTTON */
-.giveUp {
-    float: right;
+#divGiveUp {
+    width: 20%;
+    text-align: center;
+    border-color: pink;
 }
 #giveUpButton {
     background-color: aquamarine;

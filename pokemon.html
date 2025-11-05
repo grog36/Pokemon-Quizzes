@@ -1,6 +1,6 @@
 <!-- Gregory Ecklund -->
-<!-- October 2025 -->
-<!-- Pokemon Quiz -->
+<!-- November 5, 2025 -->
+<!-- Pokemon Quizzes -->
 
 <!DOCTYPE html>
 <html lang="en">
@@ -18,7 +18,7 @@
 <body>
     
     <!-- START BUTTON -->
-    <div class = "startButton", id = "startButtonDiv">
+    <div id = "divStartButton">
         <button id = "startButton" onclick = "start();">START!</button>
         <br>
         <br>
@@ -49,9 +49,9 @@
     </div>
 
     <!-- The whole game -->
-    <div id = "game" hidden>
+    <div id = "divGame" hidden>
         <!-- TIMER -->
-        <div class = "timer" id = "timer">
+        <div id = "divTimer" hidden>
             <div class = "minutes">
             <label id = "minutesLabel">Minutes: </label><p id = "minutes">0</p>
             </div>
@@ -60,35 +60,32 @@
             </div>
         </div>
         
-        <!-- GIVE UP BUTTON -->
-        <div class = "giveUp">
-            <button id = "giveUpButton" onclick = "youLose();">Give Up?</button>
-        </div>
-
-        <div id = "qAndA">
+        <!-- Questions and User Input -->
+        <div id = "divQAndA">
             <!-- QUESTIONS -->
-            <div class = "questions">
+            <div id = "divQuestions" hidden>
                 <img id = "questions">
             </div>
         
-            <br>
-            <br>
-        
             <!-- ANSWER CHOICE BUTTONS -->
-            <div class = "answerButtons">
+            <div id = "divAnswerButtons" hidden>
                 <button id = "answerButton1" class = "answerButton1" onclick = "checkAnswer(1);">Answer1</button><button id = "answerButton2" class = "answerButton2" onclick = "checkAnswer(2);">Answer2</button>
                 <br>
                 <button id = "answerButton3" class = "answerButton3" onclick = "checkAnswer(3);">Answer3</button><button id = "answerButton4" class = "answerButton4" onclick = "checkAnswer(4);">Answer4</button>
             </div>
         </div>
-
-    
-        <!-- RETRY BUTTON -->
-        <div class = "retryButton">
-            <button id = "retryButton" class = "retryButton" onclick = "retry();">Retry?</button>
+        
+        <!-- GIVE UP BUTTON -->
+        <div id = "divGiveUp" hidden>
+            <button id = "giveUpButton" onclick = "youLose();">Give Up?</button>
         </div>
+        
     </div>
-
+    
+    <!-- RETRY BUTTON -->
+    <div id = "divRetryButton" hidden>
+        <button id = "retryButton" onclick = "retry();">Retry?</button>
+    </div>
 
 </body>
 </html>
