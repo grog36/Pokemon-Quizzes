@@ -444,7 +444,7 @@ function add_gen3() {
     ap(3,"Wynaut", 360, PSYCHIC);
     ap(3,"Snorunt", 361, ICE);
     ap(3,"Glalie", 362, ICE);
-    ap(3,"SPHEAL", 363, ICE, WATER);
+    ap(3,"Spheal", 363, ICE, WATER);
     ap(3,"Sealeo", 364, ICE, WATER);
     ap(3,"Walrein", 365, ICE, WATER);
     ap(3,"Clamperl", 366, WATER);
